@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.form_btn {
+    margin: 20px 0;
+}
