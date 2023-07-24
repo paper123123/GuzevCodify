@@ -1,0 +1,756 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690176322396,6922,https://www.ts.kg/category/films,200,OK,Thread Group 1-3,text,true,,5657149,37775,5,5,https://www.ts.kg/category/films,2607,0,2234
+1690176322596,6724,https://www.ts.kg/category/films,200,OK,Thread Group 1-4,text,true,,5774258,37775,5,5,https://www.ts.kg/category/films,2405,0,2034
+1690176322396,2737,https://www.ts.kg/category/films-0,200,OK,Thread Group 1-3,text,true,,138287,504,5,5,https://www.ts.kg/category/films,2607,0,2234
+1690176322596,2546,https://www.ts.kg/category/films-0,200,OK,Thread Group 1-4,text,true,,138423,504,5,5,https://www.ts.kg/category/films,2405,0,2034
+1690176325343,269,https://www.ts.kg/category/films-1,200,OK,Thread Group 1-3,bin,true,,9783,505,5,5,https://www.ts.kg/img/favicon.png,269,0,157
+1690176325348,379,https://www.ts.kg/category/films-1,200,OK,Thread Group 1-4,bin,true,,9783,505,5,5,https://www.ts.kg/img/favicon.png,379,0,239
+1690176325341,575,https://www.ts.kg/category/films-2,200,OK,Thread Group 1-3,text,true,,196302,520,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,269,0,136
+1690176325348,295,https://www.ts.kg/category/films-2,200,OK,Thread Group 1-4,text,true,,196302,520,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,106,0,0
+1690176325341,364,https://www.ts.kg/category/films-3,200,OK,Thread Group 1-3,text,true,,266,504,5,5,https://www.ts.kg/js/branding.js,364,0,241
+1690176325348,335,https://www.ts.kg/category/films-3,200,OK,Thread Group 1-4,text,true,,266,504,5,5,https://www.ts.kg/js/branding.js,335,0,241
+1690176325341,1518,https://www.ts.kg/category/films-4,200,OK,Thread Group 1-3,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,913,0,559
+1690176325348,1487,https://www.ts.kg/category/films-4,200,OK,Thread Group 1-4,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,902,0,545
+1690176325340,76,https://www.ts.kg/category/films-5,200,OK,Thread Group 1-3,text,true,,2245,502,5,5,https://www.ts.kg/img/logo.svg,76,0,0
+1690176325352,262,https://www.ts.kg/category/films-5,200,OK,Thread Group 1-4,text,true,,2245,502,5,5,https://www.ts.kg/img/logo.svg,262,0,150
+1690176325351,393,https://www.ts.kg/category/films-6,200,OK,Thread Group 1-4,bin,true,,23451,540,5,5,https://www.ts.kg/olol1/a539de10489030538d8388090d2d9da588c78c3d.jpg,385,0,242
+1690176325340,340,https://www.ts.kg/category/films-6,200,OK,Thread Group 1-3,bin,true,,23451,540,5,5,https://www.ts.kg/olol1/a539de10489030538d8388090d2d9da588c78c3d.jpg,275,0,160
+1690176325615,262,https://www.ts.kg/category/films-7,200,OK,Thread Group 1-4,bin,true,,110836,540,5,5,https://www.ts.kg/olol1/da1eea910301c443359d6b28f5162da77ccf13cd.jpg,118,0,0
+1690176325418,468,https://www.ts.kg/category/films-7,200,OK,Thread Group 1-3,bin,true,,110836,540,5,5,https://www.ts.kg/olol1/da1eea910301c443359d6b28f5162da77ccf13cd.jpg,325,0,196
+1690176325684,165,https://www.ts.kg/category/films-8,200,OK,Thread Group 1-4,bin,true,,45509,540,5,5,https://www.ts.kg/olol1/6358639d2f9d67fd229df11abe596425d2f929ec.jpg,66,0,0
+1690176325613,168,https://www.ts.kg/category/films-8,200,OK,Thread Group 1-3,bin,true,,45509,540,5,5,https://www.ts.kg/olol1/6358639d2f9d67fd229df11abe596425d2f929ec.jpg,128,0,0
+1690176325733,523,https://www.ts.kg/category/films-9,200,OK,Thread Group 1-4,bin,true,,88330,529,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,519,0,191
+1690176325682,574,https://www.ts.kg/category/films-9,200,OK,Thread Group 1-3,bin,true,,88330,529,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,569,0,176
+1690176325744,117,https://www.ts.kg/category/films-10,200,OK,Thread Group 1-4,text,true,,6441,514,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,117,0,0
+1690176325707,73,https://www.ts.kg/category/films-10,200,OK,Thread Group 1-3,text,true,,6441,514,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,73,0,0
+1690176325858,407,https://www.ts.kg/category/films-11,200,OK,Thread Group 1-4,bin,true,,71909,532,5,5,https://www.ts.kg/posters/the_adventures_of_jurassic_pet.png,74,0,0
+1690176325791,810,https://www.ts.kg/category/films-11,200,OK,Thread Group 1-3,bin,true,,71909,532,5,5,https://www.ts.kg/posters/the_adventures_of_jurassic_pet.png,697,0,465
+1690176325864,414,https://www.ts.kg/category/films-12,200,OK,Thread Group 1-4,bin,true,,104167,525,5,5,https://www.ts.kg/posters/transformers_collection.png,97,0,0
+1690176325878,390,https://www.ts.kg/category/films-13,200,OK,Thread Group 1-4,bin,true,,100937,528,5,5,https://www.ts.kg/posters/marvel_saga_beskonechnosti.png,84,0,0
+1690176325791,467,https://www.ts.kg/category/films-12,200,OK,Thread Group 1-3,bin,true,,104167,525,5,5,https://www.ts.kg/posters/transformers_collection.png,112,0,0
+1690176326267,240,https://www.ts.kg/category/films-14,200,OK,Thread Group 1-4,bin,true,,93853,518,5,5,https://www.ts.kg/posters/fast_and_furious.png,140,0,0
+1690176325887,379,https://www.ts.kg/category/films-13,200,OK,Thread Group 1-3,bin,true,,100937,528,5,5,https://www.ts.kg/posters/marvel_saga_beskonechnosti.png,100,0,0
+1690176326266,298,https://www.ts.kg/category/films-15,200,OK,Thread Group 1-4,bin,true,,81663,512,5,5,https://www.ts.kg/posters/extraction.png,148,0,0
+1690176326257,255,https://www.ts.kg/category/films-14,200,OK,Thread Group 1-3,bin,true,,93853,518,5,5,https://www.ts.kg/posters/fast_and_furious.png,156,0,0
+1690176326273,336,https://www.ts.kg/category/films-16,200,OK,Thread Group 1-4,bin,true,,81050,511,5,5,https://www.ts.kg/posters/john_wick.png,141,0,0
+1690176326268,738,https://www.ts.kg/category/films-15,200,OK,Thread Group 1-3,bin,true,,81663,512,5,5,https://www.ts.kg/posters/extraction.png,414,0,218
+1690176326279,285,https://www.ts.kg/category/films-17,200,OK,Thread Group 1-4,bin,true,,94196,511,5,5,https://www.ts.kg/posters/evil_dead.png,135,0,0
+1690176326269,721,https://www.ts.kg/category/films-16,200,OK,Thread Group 1-3,bin,true,,81050,511,5,5,https://www.ts.kg/posters/john_wick.png,413,0,216
+1690176326508,654,https://www.ts.kg/category/films-18,200,OK,Thread Group 1-4,bin,true,,82774,518,5,5,https://www.ts.kg/posters/jeepers_creepers.png,489,0,181
+1690176326513,191,https://www.ts.kg/category/films-17,200,OK,Thread Group 1-3,bin,true,,94196,511,5,5,https://www.ts.kg/posters/evil_dead.png,97,0,0
+1690176326564,400,https://www.ts.kg/category/films-19,200,OK,Thread Group 1-4,bin,true,,91779,513,5,5,https://www.ts.kg/posters/hocus_pocus.png,151,0,0
+1690176326602,367,https://www.ts.kg/category/films-18,200,OK,Thread Group 1-3,bin,true,,82774,518,5,5,https://www.ts.kg/posters/jeepers_creepers.png,153,0,0
+1690176326564,400,https://www.ts.kg/category/films-20,200,OK,Thread Group 1-4,bin,true,,88778,514,5,5,https://www.ts.kg/posters/scream_movie.png,159,0,0
+1690176326705,259,https://www.ts.kg/category/films-19,200,OK,Thread Group 1-3,bin,true,,91779,513,5,5,https://www.ts.kg/posters/hocus_pocus.png,213,0,0
+1690176326610,449,https://www.ts.kg/category/films-21,200,OK,Thread Group 1-4,bin,true,,107785,519,5,5,https://www.ts.kg/posters/asterix_et_obelix.png,140,0,0
+1690176326722,580,https://www.ts.kg/category/films-20,200,OK,Thread Group 1-3,bin,true,,88778,514,5,5,https://www.ts.kg/posters/scream_movie.png,386,0,258
+1690176326722,605,https://www.ts.kg/category/films-22,200,OK,Thread Group 1-4,bin,true,,75271,515,5,5,https://www.ts.kg/posters/lyubov_morkov.png,425,0,257
+1690176326859,589,https://www.ts.kg/category/films-21,200,OK,Thread Group 1-3,bin,true,,107785,519,5,5,https://www.ts.kg/posters/asterix_et_obelix.png,301,0,182
+1690176326836,149,https://www.ts.kg/category/films-23,200,OK,Thread Group 1-4,text,true,,539,514,5,5,https://www.ts.kg/img/flags/svg/4x3/ru.svg,149,0,0
+1690176326965,180,https://www.ts.kg/category/films-24,200,OK,Thread Group 1-4,bin,true,,85594,508,5,5,https://www.ts.kg/posters/avatar.png,100,0,0
+1690176326965,116,https://www.ts.kg/category/films-22,200,OK,Thread Group 1-3,bin,true,,75271,515,5,5,https://www.ts.kg/posters/lyubov_morkov.png,85,0,0
+1690176326965,204,https://www.ts.kg/category/films-25,200,OK,Thread Group 1-4,bin,true,,99389,519,5,5,https://www.ts.kg/posters/a_man_called_otto.png,100,0,0
+1690176326985,90,https://www.ts.kg/category/films-26,200,OK,Thread Group 1-4,text,true,,1007,514,5,5,https://www.ts.kg/img/flags/svg/4x3/se.svg,90,0,0
+1690176326970,73,https://www.ts.kg/category/films-23,200,OK,Thread Group 1-3,text,true,,539,514,5,5,https://www.ts.kg/img/flags/svg/4x3/ru.svg,73,0,0
+1690176327061,259,https://www.ts.kg/category/films-27,200,OK,Thread Group 1-4,bin,true,,85483,516,5,5,https://www.ts.kg/posters/murder_mystery.png,102,0,0
+1690176326990,628,https://www.ts.kg/category/films-24,200,OK,Thread Group 1-3,bin,true,,85594,508,5,5,https://www.ts.kg/posters/avatar.png,357,0,147
+1690176327077,135,https://www.ts.kg/category/films-28,200,OK,Thread Group 1-4,bin,true,,87309,507,5,5,https://www.ts.kg/posters/rocky.png,92,0,0
+1690176327007,300,https://www.ts.kg/category/films-25,200,OK,Thread Group 1-3,bin,true,,99389,519,5,5,https://www.ts.kg/posters/a_man_called_otto.png,102,0,0
+1690176327147,253,https://www.ts.kg/category/films-29,200,OK,Thread Group 1-4,bin,true,,102485,522,5,5,https://www.ts.kg/posters/history_of_the_world.png,120,0,0
+1690176327045,87,https://www.ts.kg/category/films-26,200,OK,Thread Group 1-3,text,true,,1007,514,5,5,https://www.ts.kg/img/flags/svg/4x3/se.svg,87,0,0
+1690176327164,274,https://www.ts.kg/category/films-30,200,OK,Thread Group 1-4,bin,true,,87894,520,5,5,https://www.ts.kg/posters/belle_et_sebastien.png,139,0,0
+1690176327083,146,https://www.ts.kg/category/films-27,200,OK,Thread Group 1-3,bin,true,,85483,516,5,5,https://www.ts.kg/posters/murder_mystery.png,102,0,0
+1690176327170,115,https://www.ts.kg/category/films-31,200,OK,Thread Group 1-4,text,true,,543,514,5,5,https://www.ts.kg/img/flags/svg/4x3/fr.svg,115,0,0
+1690176327133,267,https://www.ts.kg/category/films-28,200,OK,Thread Group 1-3,bin,true,,87309,507,5,5,https://www.ts.kg/posters/rocky.png,123,0,0
+1690176327213,161,https://www.ts.kg/category/films-32,200,OK,Thread Group 1-4,bin,true,,80958,514,5,5,https://www.ts.kg/posters/casper_movie.png,124,0,0
+1690176327231,265,https://www.ts.kg/category/films-29,200,OK,Thread Group 1-3,bin,true,,102485,522,5,5,https://www.ts.kg/posters/history_of_the_world.png,132,0,0
+1690176327286,281,https://www.ts.kg/category/films-33,200,OK,Thread Group 1-4,bin,true,,97360,514,5,5,https://www.ts.kg/posters/neposlushnik.png,163,0,0
+1690176327304,207,https://www.ts.kg/category/films-30,200,OK,Thread Group 1-3,bin,true,,87894,520,5,5,https://www.ts.kg/posters/belle_et_sebastien.png,155,0,0
+1690176327320,354,https://www.ts.kg/category/films-34,200,OK,Thread Group 1-4,bin,true,,88167,512,5,5,https://www.ts.kg/posters/knives_out.png,199,0,0
+1690176327310,140,https://www.ts.kg/category/films-31,200,OK,Thread Group 1-3,text,true,,543,514,5,5,https://www.ts.kg/img/flags/svg/4x3/fr.svg,140,0,0
+1690176327328,301,https://www.ts.kg/category/films-35,200,OK,Thread Group 1-4,bin,true,,89740,542,5,5,https://www.ts.kg/posters/luchshie_otechestvennye_novogodnie_filmy.png,172,0,0
+1690176327401,607,https://www.ts.kg/category/films-32,200,OK,Thread Group 1-3,bin,true,,80958,514,5,5,https://www.ts.kg/posters/casper_movie.png,438,0,208
+1690176327374,172,https://www.ts.kg/category/films-36,200,OK,Thread Group 1-4,bin,true,,86559,541,5,5,https://www.ts.kg/posters/clash_of_the_titans_wrath_of_the_titans.png,161,0,0
+1690176327450,205,https://www.ts.kg/category/films-33,200,OK,Thread Group 1-3,bin,true,,97360,514,5,5,https://www.ts.kg/posters/neposlushnik.png,119,0,0
+1690176327401,645,https://www.ts.kg/category/films-37,200,OK,Thread Group 1-4,bin,true,,103475,507,5,5,https://www.ts.kg/posters/yolki.png,428,0,201
+1690176327451,260,https://www.ts.kg/category/films-34,200,OK,Thread Group 1-3,bin,true,,88167,512,5,5,https://www.ts.kg/posters/knives_out.png,140,0,0
+1690176327439,187,https://www.ts.kg/category/films-38,200,OK,Thread Group 1-4,bin,true,,84903,519,5,5,https://www.ts.kg/posters/agashki_po_vyzovu.png,127,0,0
+1690176327497,167,https://www.ts.kg/category/films-35,200,OK,Thread Group 1-3,bin,true,,89740,542,5,5,https://www.ts.kg/posters/luchshie_otechestvennye_novogodnie_filmy.png,152,0,0
+1690176327546,155,https://www.ts.kg/category/films-39,200,OK,Thread Group 1-4,text,true,,17747,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kz.svg,155,0,0
+1690176327511,164,https://www.ts.kg/category/films-36,200,OK,Thread Group 1-3,bin,true,,86559,541,5,5,https://www.ts.kg/posters/clash_of_the_titans_wrath_of_the_titans.png,148,0,0
+1690176327567,199,https://www.ts.kg/category/films-40,200,OK,Thread Group 1-4,bin,true,,99415,525,5,5,https://www.ts.kg/posters/don_t_fuck_in_the_woods.png,113,0,0
+1690176327619,268,https://www.ts.kg/category/films-37,200,OK,Thread Group 1-3,bin,true,,103475,507,5,5,https://www.ts.kg/posters/yolki.png,98,0,0
+1690176327627,178,https://www.ts.kg/category/films-41,200,OK,Thread Group 1-4,bin,true,,90068,512,5,5,https://www.ts.kg/posters/maior_grom.png,121,0,0
+1690176327656,625,https://www.ts.kg/category/films-38,200,OK,Thread Group 1-3,bin,true,,84903,519,5,5,https://www.ts.kg/posters/agashki_po_vyzovu.png,401,0,198
+1690176327630,211,https://www.ts.kg/category/films-42,200,OK,Thread Group 1-4,bin,true,,99785,530,5,5,https://www.ts.kg/posters/zarubezhnye_novogodnie_filmy.png,120,0,0
+1690176327664,86,https://www.ts.kg/category/films-39,200,OK,Thread Group 1-3,text,true,,17747,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kz.svg,86,0,0
+1690176327675,312,https://www.ts.kg/category/films-43,200,OK,Thread Group 1-4,bin,true,,80126,517,5,5,https://www.ts.kg/posters/chestnyi_razvod.png,154,0,0
+1690176327675,195,https://www.ts.kg/category/films-40,200,OK,Thread Group 1-3,bin,true,,99415,525,5,5,https://www.ts.kg/posters/don_t_fuck_in_the_woods.png,99,0,0
+1690176327702,155,https://www.ts.kg/category/films-44,200,OK,Thread Group 1-4,bin,true,,63688,514,5,5,https://www.ts.kg/posters/daddy_s_home.png,127,0,0
+1690176327712,250,https://www.ts.kg/category/films-41,200,OK,Thread Group 1-3,bin,true,,90068,512,5,5,https://www.ts.kg/posters/maior_grom.png,140,0,0
+1690176327766,242,https://www.ts.kg/category/films-45,200,OK,Thread Group 1-4,bin,true,,93935,508,5,5,https://www.ts.kg/posters/gongjo.png,136,0,0
+1690176327751,238,https://www.ts.kg/category/films-42,200,OK,Thread Group 1-3,bin,true,,99785,530,5,5,https://www.ts.kg/posters/zarubezhnye_novogodnie_filmy.png,134,0,0
+1690176327806,118,https://www.ts.kg/category/films-46,200,OK,Thread Group 1-4,text,true,,2651,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kr.svg,118,0,0
+1690176327870,157,https://www.ts.kg/category/films-43,200,OK,Thread Group 1-3,bin,true,,80126,517,5,5,https://www.ts.kg/posters/chestnyi_razvod.png,131,0,0
+1690176327842,171,https://www.ts.kg/category/films-47,200,OK,Thread Group 1-4,bin,true,,116598,511,5,5,https://www.ts.kg/posters/enchanted.png,120,0,0
+1690176327888,131,https://www.ts.kg/category/films-44,200,OK,Thread Group 1-3,bin,true,,63688,514,5,5,https://www.ts.kg/posters/daddy_s_home.png,113,0,0
+1690176327857,151,https://www.ts.kg/category/films-48,200,OK,Thread Group 1-4,bin,true,,82043,514,5,5,https://www.ts.kg/posters/harry_potter.png,125,0,0
+1690176327962,242,https://www.ts.kg/category/films-45,200,OK,Thread Group 1-3,bin,true,,93935,508,5,5,https://www.ts.kg/posters/gongjo.png,105,0,0
+1690176327928,157,https://www.ts.kg/category/films-49,200,OK,Thread Group 1-4,bin,true,,113200,514,5,5,https://www.ts.kg/posters/enola_holmes.png,104,0,0
+1690176327989,495,https://www.ts.kg/category/films-46,200,OK,Thread Group 1-3,text,true,,2651,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kr.svg,495,0,383
+1690176327988,98,https://www.ts.kg/category/films-50,200,OK,Thread Group 1-4,text,true,,1198,514,5,5,https://www.ts.kg/img/flags/svg/4x3/uk.svg,98,0,0
+1690176328008,353,https://www.ts.kg/category/films-47,200,OK,Thread Group 1-3,bin,true,,116598,511,5,5,https://www.ts.kg/posters/enchanted.png,148,0,0
+1690176328008,298,https://www.ts.kg/category/films-51,200,OK,Thread Group 1-4,bin,true,,110908,509,5,5,https://www.ts.kg/posters/r_i_p_d.png,136,0,0
+1690176328019,219,https://www.ts.kg/category/films-48,200,OK,Thread Group 1-3,bin,true,,82043,514,5,5,https://www.ts.kg/posters/harry_potter.png,130,0,0
+1690176328009,271,https://www.ts.kg/category/films-52,200,OK,Thread Group 1-4,bin,true,,85247,513,5,5,https://www.ts.kg/posters/after_movie.png,147,0,0
+1690176328028,231,https://www.ts.kg/category/films-49,200,OK,Thread Group 1-3,bin,true,,113200,514,5,5,https://www.ts.kg/posters/enola_holmes.png,128,0,0
+1690176328014,190,https://www.ts.kg/category/films-53,200,OK,Thread Group 1-4,bin,true,,61562,511,5,5,https://www.ts.kg/posters/halloween.png,137,0,0
+1690176328205,121,https://www.ts.kg/category/films-50,200,OK,Thread Group 1-3,text,true,,1198,514,5,5,https://www.ts.kg/img/flags/svg/4x3/uk.svg,120,0,0
+1690176328047,263,https://www.ts.kg/category/films-54,200,OK,Thread Group 1-4,bin,true,,82568,511,5,5,https://www.ts.kg/posters/the_witch.png,166,0,0
+1690176328238,238,https://www.ts.kg/category/films-51,200,OK,Thread Group 1-3,bin,true,,110908,509,5,5,https://www.ts.kg/posters/r_i_p_d.png,131,0,0
+1690176328086,213,https://www.ts.kg/category/films-55,200,OK,Thread Group 1-4,bin,true,,107225,529,5,5,https://www.ts.kg/posters/the_battle_at_lake_changjin.png,178,0,0
+1690176328259,154,https://www.ts.kg/category/films-52,200,OK,Thread Group 1-3,bin,true,,85247,513,5,5,https://www.ts.kg/posters/after_movie.png,122,0,0
+1690176328086,176,https://www.ts.kg/category/films-56,200,OK,Thread Group 1-4,text,true,,1090,514,5,5,https://www.ts.kg/img/flags/svg/4x3/cn.svg,176,0,0
+1690176328281,197,https://www.ts.kg/category/films-53,200,OK,Thread Group 1-3,bin,true,,61562,511,5,5,https://www.ts.kg/posters/halloween.png,110,0,0
+1690176328204,167,https://www.ts.kg/category/films-57,200,OK,Thread Group 1-4,bin,true,,91023,521,5,5,https://www.ts.kg/posters/downton_abbey_movie.png,124,0,0
+1690176328326,153,https://www.ts.kg/category/films-54,200,OK,Thread Group 1-3,bin,true,,82568,511,5,5,https://www.ts.kg/posters/the_witch.png,107,0,0
+1690176328263,316,https://www.ts.kg/category/films-58,200,OK,Thread Group 1-4,bin,true,,60007,506,5,5,https://www.ts.kg/posters/jaws.png,130,0,0
+1690176328363,269,https://www.ts.kg/category/films-55,200,OK,Thread Group 1-3,bin,true,,107225,529,5,5,https://www.ts.kg/posters/the_battle_at_lake_changjin.png,136,0,0
+1690176328281,306,https://www.ts.kg/category/films-59,200,OK,Thread Group 1-4,bin,true,,96103,518,5,5,https://www.ts.kg/posters/wolf_creek_movie.png,112,0,0
+1690176328414,167,https://www.ts.kg/category/films-56,200,OK,Thread Group 1-3,text,true,,1090,514,5,5,https://www.ts.kg/img/flags/svg/4x3/cn.svg,167,0,0
+1690176328300,113,https://www.ts.kg/category/films-60,200,OK,Thread Group 1-4,text,true,,2004,514,5,5,https://www.ts.kg/img/flags/svg/4x3/au.svg,113,0,0
+1690176328477,167,https://www.ts.kg/category/films-57,200,OK,Thread Group 1-3,bin,true,,91023,521,5,5,https://www.ts.kg/posters/downton_abbey_movie.png,138,0,0
+1690176328307,292,https://www.ts.kg/category/films-61,200,OK,Thread Group 1-4,bin,true,,98604,513,5,5,https://www.ts.kg/posters/podslushano.png,118,0,0
+1690176328479,191,https://www.ts.kg/category/films-58,200,OK,Thread Group 1-3,bin,true,,60007,506,5,5,https://www.ts.kg/posters/jaws.png,154,0,0
+1690176328313,176,https://www.ts.kg/category/films-62,200,OK,Thread Group 1-4,bin,true,,75330,526,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,115,0,0
+1690176328479,186,https://www.ts.kg/category/films-59,200,OK,Thread Group 1-3,bin,true,,96103,518,5,5,https://www.ts.kg/posters/wolf_creek_movie.png,142,0,0
+1690176328372,634,https://www.ts.kg/category/films-63,200,OK,Thread Group 1-4,bin,true,,52202,508,5,5,https://www.ts.kg/posters/orphan.png,498,0,238
+1690176328414,180,https://www.ts.kg/category/films-64,200,OK,Thread Group 1-4,bin,true,,49256,516,5,5,https://www.ts.kg/posters/the_mask_movie.png,175,0,0
+1690176328485,524,https://www.ts.kg/category/films-60,200,OK,Thread Group 1-3,text,true,,2004,514,5,5,https://www.ts.kg/img/flags/svg/4x3/au.svg,524,0,385
+1690176328489,739,https://www.ts.kg/category/films-65,200,OK,Thread Group 1-4,bin,true,,79325,509,5,5,https://www.ts.kg/posters/top_gun.png,520,0,215
+1690176328581,99,https://www.ts.kg/category/films-61,200,OK,Thread Group 1-3,bin,true,,98604,513,5,5,https://www.ts.kg/posters/podslushano.png,91,0,0
+1690176328580,404,https://www.ts.kg/category/films-66,200,OK,Thread Group 1-4,bin,true,,90334,510,5,5,https://www.ts.kg/posters/fortress.png,95,0,0
+1690176328633,266,https://www.ts.kg/category/films-62,200,OK,Thread Group 1-3,bin,true,,75330,526,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,176,0,0
+1690176328587,391,https://www.ts.kg/category/films-67,200,OK,Thread Group 1-4,bin,true,,100706,514,5,5,https://www.ts.kg/posters/the_predator.png,139,0,0
+1690176328645,175,https://www.ts.kg/category/films-63,200,OK,Thread Group 1-3,bin,true,,52202,508,5,5,https://www.ts.kg/posters/orphan.png,118,0,0
+1690176328595,219,https://www.ts.kg/category/films-68,200,OK,Thread Group 1-4,bin,true,,109617,522,5,5,https://www.ts.kg/posters/mutant_ninja_turtles.png,86,0,0
+1690176328665,160,https://www.ts.kg/category/films-64,200,OK,Thread Group 1-3,bin,true,,49256,516,5,5,https://www.ts.kg/posters/the_mask_movie.png,144,0,0
+1690176328600,372,https://www.ts.kg/category/films-69,200,OK,Thread Group 1-4,bin,true,,166423,540,5,5,https://www.ts.kg/olol1/c8ae5cd2d0840917bb7a43f810eda99c072cf12c.jpg,84,0,0
+1690176328670,321,https://www.ts.kg/category/films-65,200,OK,Thread Group 1-3,bin,true,,79325,509,5,5,https://www.ts.kg/posters/top_gun.png,220,0,0
+1690176328815,506,https://www.ts.kg/category/films-70,200,OK,Thread Group 1-4,bin,true,,59489,540,5,5,https://www.ts.kg/olol1/a6a112367c68c82d3e70f226241c6afe4a15c0a4.jpg,382,0,204
+1690176328681,248,https://www.ts.kg/category/films-66,200,OK,Thread Group 1-3,bin,true,,90334,510,5,5,https://www.ts.kg/posters/fortress.png,198,0,0
+1690176328972,349,https://www.ts.kg/category/films-71,200,OK,Thread Group 1-4,text,true,,191792,518,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,115,0,0
+1690176328820,186,https://www.ts.kg/category/films-67,200,OK,Thread Group 1-3,bin,true,,100706,514,5,5,https://www.ts.kg/posters/the_predator.png,166,0,0
+1690176328979,283,https://www.ts.kg/category/films-72,200,OK,Thread Group 1-4,text,true,,4569,501,5,5,https://ba.ts.kg/ba/async.php,283,0,167
+1690176328826,250,https://www.ts.kg/category/films-68,200,OK,Thread Group 1-3,bin,true,,109617,522,5,5,https://www.ts.kg/posters/mutant_ninja_turtles.png,165,0,0
+1690176328900,155,https://www.ts.kg/category/films-69,200,OK,Thread Group 1-3,bin,true,,82920,540,5,5,https://www.ts.kg/olol1/6cdb9f06d9aeb9fdc2d6724dd13a49838f622bc9.png,117,0,0
+1690176328929,122,https://www.ts.kg/category/films-70,200,OK,Thread Group 1-3,bin,true,,26019,540,5,5,https://www.ts.kg/olol1/545e6ac9531a27bff54c9e55c6a443335e3c1d97.png,116,0,0
+1690176328991,283,https://www.ts.kg/category/films-71,200,OK,Thread Group 1-3,text,true,,191792,518,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,102,0,0
+1690176329007,312,https://www.ts.kg/category/films-72,200,OK,Thread Group 1-3,text,true,,4569,501,5,5,https://ba.ts.kg/ba/async.php,312,0,196
+1690176329329,67,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-3,text,true,,1569,449,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1%7C2,67,0,0
+1690176329329,79,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-4,text,true,,1569,449,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1%7C2,79,0,0
+1690176322124,7394,https://www.ts.kg/category/films,200,OK,Thread Group 1-1,text,true,,5778591,37775,5,5,https://www.ts.kg/category/films,2877,0,2506
+1690176322124,3018,https://www.ts.kg/category/films-0,200,OK,Thread Group 1-1,text,true,,138529,504,5,5,https://www.ts.kg/category/films,2877,0,2506
+1690176325347,69,https://www.ts.kg/category/films-1,200,OK,Thread Group 1-1,bin,true,,9783,505,5,5,https://www.ts.kg/img/favicon.png,69,0,0
+1690176325347,641,https://www.ts.kg/category/films-2,200,OK,Thread Group 1-1,text,true,,196302,520,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,390,0,237
+1690176325348,266,https://www.ts.kg/category/films-3,200,OK,Thread Group 1-1,text,true,,266,504,5,5,https://www.ts.kg/js/branding.js,266,0,154
+1690176325348,1507,https://www.ts.kg/category/films-4,200,OK,Thread Group 1-1,text,true,,261295,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,902,0,545
+1690176325348,262,https://www.ts.kg/category/films-5,200,OK,Thread Group 1-1,text,true,,2245,502,5,5,https://www.ts.kg/img/logo.svg,262,0,147
+1690176325352,495,https://www.ts.kg/category/films-6,200,OK,Thread Group 1-1,bin,true,,95353,540,5,5,https://www.ts.kg/olol1/8cbb2107d378f0c2c90b6e4ec3b49052a7ff35cb.jpg,263,0,149
+1690176325419,184,https://www.ts.kg/category/films-7,200,OK,Thread Group 1-1,bin,true,,62958,540,5,5,https://www.ts.kg/olol1/505845f04c5151c9e827ab728d56ea6fe8a41f04.png,172,0,0
+1690176325604,125,https://www.ts.kg/category/films-8,200,OK,Thread Group 1-1,bin,true,,25684,540,5,5,https://www.ts.kg/olol1/17891821eac341be2dd4cb3105443f66434b3fcf.png,102,0,0
+1690176325611,249,https://www.ts.kg/category/films-9,200,OK,Thread Group 1-1,bin,true,,88330,529,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,122,0,0
+1690176325614,87,https://www.ts.kg/category/films-10,200,OK,Thread Group 1-1,text,true,,6441,514,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,87,0,0
+1690176325705,179,https://www.ts.kg/category/films-11,200,OK,Thread Group 1-1,bin,true,,71909,532,5,5,https://www.ts.kg/posters/the_adventures_of_jurassic_pet.png,139,0,0
+1690176325730,531,https://www.ts.kg/category/films-12,200,OK,Thread Group 1-1,bin,true,,104167,525,5,5,https://www.ts.kg/posters/transformers_collection.png,524,0,128
+1690176325867,400,https://www.ts.kg/category/films-13,200,OK,Thread Group 1-1,bin,true,,100937,528,5,5,https://www.ts.kg/posters/marvel_saga_beskonechnosti.png,94,0,0
+1690176325867,399,https://www.ts.kg/category/films-14,200,OK,Thread Group 1-1,bin,true,,93853,518,5,5,https://www.ts.kg/posters/fast_and_furious.png,94,0,0
+1690176325886,380,https://www.ts.kg/category/films-15,200,OK,Thread Group 1-1,bin,true,,81663,512,5,5,https://www.ts.kg/posters/extraction.png,372,0,0
+1690176326263,275,https://www.ts.kg/category/films-16,200,OK,Thread Group 1-1,bin,true,,81050,511,5,5,https://www.ts.kg/posters/john_wick.png,150,0,0
+1690176326267,756,https://www.ts.kg/category/films-17,200,OK,Thread Group 1-1,bin,true,,94196,511,5,5,https://www.ts.kg/posters/evil_dead.png,415,0,214
+1690176326268,729,https://www.ts.kg/category/films-18,200,OK,Thread Group 1-1,bin,true,,82774,518,5,5,https://www.ts.kg/posters/jeepers_creepers.png,407,0,213
+1690176326271,248,https://www.ts.kg/category/films-19,200,OK,Thread Group 1-1,bin,true,,91779,513,5,5,https://www.ts.kg/posters/hocus_pocus.png,137,0,0
+1690176326520,148,https://www.ts.kg/category/films-20,200,OK,Thread Group 1-1,bin,true,,88778,514,5,5,https://www.ts.kg/posters/scream_movie.png,112,0,0
+1690176326538,439,https://www.ts.kg/category/films-21,200,OK,Thread Group 1-1,bin,true,,107785,519,5,5,https://www.ts.kg/posters/asterix_et_obelix.png,122,0,0
+1690176326668,223,https://www.ts.kg/category/films-22,200,OK,Thread Group 1-1,bin,true,,75271,515,5,5,https://www.ts.kg/posters/lyubov_morkov.png,187,0,0
+1690176326722,334,https://www.ts.kg/category/films-23,200,OK,Thread Group 1-1,text,true,,539,514,5,5,https://www.ts.kg/img/flags/svg/4x3/ru.svg,334,0,257
+1690176326856,145,https://www.ts.kg/category/films-24,200,OK,Thread Group 1-1,bin,true,,85594,508,5,5,https://www.ts.kg/posters/avatar.png,131,0,0
+1690176326892,195,https://www.ts.kg/category/films-25,200,OK,Thread Group 1-1,bin,true,,99389,519,5,5,https://www.ts.kg/posters/a_man_called_otto.png,116,0,0
+1690176326978,70,https://www.ts.kg/category/films-26,200,OK,Thread Group 1-1,text,true,,1007,514,5,5,https://www.ts.kg/img/flags/svg/4x3/se.svg,70,0,0
+1690176326999,655,https://www.ts.kg/category/films-27,200,OK,Thread Group 1-1,bin,true,,85483,516,5,5,https://www.ts.kg/posters/murder_mystery.png,449,0,185
+1690176327002,126,https://www.ts.kg/category/films-28,200,OK,Thread Group 1-1,bin,true,,87309,507,5,5,https://www.ts.kg/posters/rocky.png,90,0,0
+1690176327024,650,https://www.ts.kg/category/films-29,200,OK,Thread Group 1-1,bin,true,,102485,522,5,5,https://www.ts.kg/posters/history_of_the_world.png,409,0,154
+1690176327050,279,https://www.ts.kg/category/films-30,200,OK,Thread Group 1-1,bin,true,,87894,520,5,5,https://www.ts.kg/posters/belle_et_sebastien.png,111,0,0
+1690176327057,91,https://www.ts.kg/category/films-31,200,OK,Thread Group 1-1,text,true,,543,514,5,5,https://www.ts.kg/img/flags/svg/4x3/fr.svg,91,0,0
+1690176327089,123,https://www.ts.kg/category/films-32,200,OK,Thread Group 1-1,bin,true,,80958,514,5,5,https://www.ts.kg/posters/casper_movie.png,92,0,0
+1690176327130,219,https://www.ts.kg/category/films-33,200,OK,Thread Group 1-1,bin,true,,97360,514,5,5,https://www.ts.kg/posters/neposlushnik.png,111,0,0
+1690176327149,403,https://www.ts.kg/category/films-34,200,OK,Thread Group 1-1,bin,true,,88167,512,5,5,https://www.ts.kg/posters/knives_out.png,143,0,0
+1690176327213,161,https://www.ts.kg/category/films-35,200,OK,Thread Group 1-1,bin,true,,89740,542,5,5,https://www.ts.kg/posters/luchshie_otechestvennye_novogodnie_filmy.png,125,0,0
+1690176327329,315,https://www.ts.kg/category/films-36,200,OK,Thread Group 1-1,bin,true,,86559,541,5,5,https://www.ts.kg/posters/clash_of_the_titans_wrath_of_the_titans.png,190,0,0
+1690176327350,278,https://www.ts.kg/category/films-37,200,OK,Thread Group 1-1,bin,true,,103475,507,5,5,https://www.ts.kg/posters/yolki.png,161,0,0
+1690176327374,557,https://www.ts.kg/category/films-38,200,OK,Thread Group 1-1,bin,true,,84903,519,5,5,https://www.ts.kg/posters/agashki_po_vyzovu.png,374,0,195
+1690176327552,159,https://www.ts.kg/category/films-39,200,OK,Thread Group 1-1,text,true,,17747,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kz.svg,159,0,0
+1690176327629,258,https://www.ts.kg/category/films-40,200,OK,Thread Group 1-1,bin,true,,99415,525,5,5,https://www.ts.kg/posters/don_t_fuck_in_the_woods.png,98,0,0
+1690176327645,307,https://www.ts.kg/category/films-41,200,OK,Thread Group 1-1,bin,true,,90068,512,5,5,https://www.ts.kg/posters/maior_grom.png,128,0,0
+1690176327656,705,https://www.ts.kg/category/films-42,200,OK,Thread Group 1-1,bin,true,,99785,530,5,5,https://www.ts.kg/posters/zarubezhnye_novogodnie_filmy.png,416,0,219
+1690176327675,210,https://www.ts.kg/category/films-43,200,OK,Thread Group 1-1,bin,true,,80126,517,5,5,https://www.ts.kg/posters/chestnyi_razvod.png,101,0,0
+1690176327712,217,https://www.ts.kg/category/films-44,200,OK,Thread Group 1-1,bin,true,,63688,514,5,5,https://www.ts.kg/posters/daddy_s_home.png,152,0,0
+1690176327886,166,https://www.ts.kg/category/films-45,200,OK,Thread Group 1-1,bin,true,,93935,508,5,5,https://www.ts.kg/posters/gongjo.png,120,0,0
+1690176327887,345,https://www.ts.kg/category/films-46,200,OK,Thread Group 1-1,text,true,,2651,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kr.svg,345,0,179
+1690176327929,298,https://www.ts.kg/category/films-47,200,OK,Thread Group 1-1,bin,true,,116598,511,5,5,https://www.ts.kg/posters/enchanted.png,117,0,0
+1690176327932,230,https://www.ts.kg/category/films-48,200,OK,Thread Group 1-1,bin,true,,82043,514,5,5,https://www.ts.kg/posters/harry_potter.png,105,0,0
+1690176327953,372,https://www.ts.kg/category/films-49,200,OK,Thread Group 1-1,bin,true,,113200,514,5,5,https://www.ts.kg/posters/enola_holmes.png,150,0,0
+1690176328053,149,https://www.ts.kg/category/films-50,200,OK,Thread Group 1-1,text,true,,1198,514,5,5,https://www.ts.kg/img/flags/svg/4x3/uk.svg,149,0,0
+1690176328162,265,https://www.ts.kg/category/films-51,200,OK,Thread Group 1-1,bin,true,,110908,509,5,5,https://www.ts.kg/posters/r_i_p_d.png,151,0,0
+1690176328203,162,https://www.ts.kg/category/films-52,200,OK,Thread Group 1-1,bin,true,,85247,513,5,5,https://www.ts.kg/posters/after_movie.png,122,0,0
+1690176328228,143,https://www.ts.kg/category/films-53,200,OK,Thread Group 1-1,bin,true,,61562,511,5,5,https://www.ts.kg/posters/halloween.png,133,0,0
+1690176328233,373,https://www.ts.kg/category/films-54,200,OK,Thread Group 1-1,bin,true,,82568,511,5,5,https://www.ts.kg/posters/the_witch.png,132,0,0
+1690176328326,344,https://www.ts.kg/category/films-55,200,OK,Thread Group 1-1,bin,true,,107225,529,5,5,https://www.ts.kg/posters/the_battle_at_lake_changjin.png,152,0,0
+1690176328362,503,https://www.ts.kg/category/films-56,200,OK,Thread Group 1-1,text,true,,1090,514,5,5,https://www.ts.kg/img/flags/svg/4x3/cn.svg,503,0,325
+1690176328366,223,https://www.ts.kg/category/films-57,200,OK,Thread Group 1-1,bin,true,,91023,521,5,5,https://www.ts.kg/posters/downton_abbey_movie.png,132,0,0
+1690176328372,679,https://www.ts.kg/category/films-58,200,OK,Thread Group 1-1,bin,true,,60007,506,5,5,https://www.ts.kg/posters/jaws.png,543,0,239
+1690176328428,235,https://www.ts.kg/category/films-59,200,OK,Thread Group 1-1,bin,true,,96103,518,5,5,https://www.ts.kg/posters/wolf_creek_movie.png,179,0,0
+1690176328589,88,https://www.ts.kg/category/films-60,200,OK,Thread Group 1-1,text,true,,2004,514,5,5,https://www.ts.kg/img/flags/svg/4x3/au.svg,88,0,0
+1690176328607,384,https://www.ts.kg/category/films-61,200,OK,Thread Group 1-1,bin,true,,98604,513,5,5,https://www.ts.kg/posters/podslushano.png,156,0,0
+1690176328663,228,https://www.ts.kg/category/films-62,200,OK,Thread Group 1-1,bin,true,,75330,526,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,144,0,0
+1690176328670,310,https://www.ts.kg/category/films-63,200,OK,Thread Group 1-1,bin,true,,52202,508,5,5,https://www.ts.kg/posters/orphan.png,244,0,0
+1690176328677,233,https://www.ts.kg/category/films-64,200,OK,Thread Group 1-1,bin,true,,49256,516,5,5,https://www.ts.kg/posters/the_mask_movie.png,202,0,0
+1690176328866,653,https://www.ts.kg/category/films-65,200,OK,Thread Group 1-1,bin,true,,79325,509,5,5,https://www.ts.kg/posters/top_gun.png,509,0,336
+1690176328892,163,https://www.ts.kg/category/films-66,200,OK,Thread Group 1-1,bin,true,,90334,510,5,5,https://www.ts.kg/posters/fortress.png,125,0,0
+1690176328910,160,https://www.ts.kg/category/films-67,200,OK,Thread Group 1-1,bin,true,,100706,514,5,5,https://www.ts.kg/posters/the_predator.png,126,0,0
+1690176328980,319,https://www.ts.kg/category/films-68,200,OK,Thread Group 1-1,bin,true,,109617,522,5,5,https://www.ts.kg/posters/mutant_ninja_turtles.png,113,0,0
+1690176328991,286,https://www.ts.kg/category/films-69,200,OK,Thread Group 1-1,bin,true,,166423,540,5,5,https://www.ts.kg/olol1/c8ae5cd2d0840917bb7a43f810eda99c072cf12c.jpg,101,0,0
+1690176329052,233,https://www.ts.kg/category/films-70,200,OK,Thread Group 1-1,bin,true,,59489,540,5,5,https://www.ts.kg/olol1/a6a112367c68c82d3e70f226241c6afe4a15c0a4.jpg,124,0,0
+1690176329055,256,https://www.ts.kg/category/films-71,200,OK,Thread Group 1-1,text,true,,191792,518,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,100,0,0
+1690176329071,285,https://www.ts.kg/category/films-72,200,OK,Thread Group 1-1,text,true,,4569,501,5,5,https://ba.ts.kg/ba/async.php,285,0,203
+1690176329523,56,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-1,text,true,,1569,449,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1%7C2,56,0,0
+1690176322200,7466,https://www.ts.kg/category/films,200,OK,Thread Group 1-2,text,true,,5589222,37775,5,5,https://www.ts.kg/category/films,2803,0,2430
+1690176322200,2935,https://www.ts.kg/category/films-0,200,OK,Thread Group 1-2,text,true,,138063,504,5,5,https://www.ts.kg/category/films,2803,0,2430
+1690176325336,80,https://www.ts.kg/category/films-1,200,OK,Thread Group 1-2,bin,true,,9783,505,5,5,https://www.ts.kg/img/favicon.png,80,0,0
+1690176325336,616,https://www.ts.kg/category/films-2,200,OK,Thread Group 1-2,text,true,,196302,520,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,277,0,142
+1690176325336,361,https://www.ts.kg/category/films-3,200,OK,Thread Group 1-2,text,true,,266,504,5,5,https://www.ts.kg/js/branding.js,361,0,250
+1690176325336,1523,https://www.ts.kg/category/films-4,200,OK,Thread Group 1-2,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,914,0,564
+1690176325341,356,https://www.ts.kg/category/films-5,200,OK,Thread Group 1-2,text,true,,2245,502,5,5,https://www.ts.kg/img/logo.svg,356,0,245
+1690176325340,396,https://www.ts.kg/category/films-6,200,OK,Thread Group 1-2,bin,true,,23451,540,5,5,https://www.ts.kg/olol1/a539de10489030538d8388090d2d9da588c78c3d.jpg,337,0,242
+1690176325418,184,https://www.ts.kg/category/films-7,200,OK,Thread Group 1-2,bin,true,,62958,540,5,5,https://www.ts.kg/olol1/505845f04c5151c9e827ab728d56ea6fe8a41f04.png,170,0,0
+1690176325602,125,https://www.ts.kg/category/films-8,200,OK,Thread Group 1-2,bin,true,,25684,540,5,5,https://www.ts.kg/olol1/17891821eac341be2dd4cb3105443f66434b3fcf.png,105,0,0
+1690176325697,167,https://www.ts.kg/category/films-9,200,OK,Thread Group 1-2,bin,true,,88330,529,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,148,0,0
+1690176325697,85,https://www.ts.kg/category/films-10,200,OK,Thread Group 1-2,text,true,,6441,514,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,85,0,0
+1690176325730,524,https://www.ts.kg/category/films-11,200,OK,Thread Group 1-2,bin,true,,71909,532,5,5,https://www.ts.kg/posters/the_adventures_of_jurassic_pet.png,521,0,136
+1690176325739,526,https://www.ts.kg/category/films-12,200,OK,Thread Group 1-2,bin,true,,104167,525,5,5,https://www.ts.kg/posters/transformers_collection.png,128,0,0
+1690176325842,849,https://www.ts.kg/category/films-13,200,OK,Thread Group 1-2,bin,true,,100937,528,5,5,https://www.ts.kg/posters/marvel_saga_beskonechnosti.png,646,0,416
+1690176325867,397,https://www.ts.kg/category/films-14,200,OK,Thread Group 1-2,bin,true,,93853,518,5,5,https://www.ts.kg/posters/fast_and_furious.png,67,0,0
+1690176326257,730,https://www.ts.kg/category/films-15,200,OK,Thread Group 1-2,bin,true,,81663,512,5,5,https://www.ts.kg/posters/extraction.png,425,0,224
+1690176326266,184,https://www.ts.kg/category/films-16,200,OK,Thread Group 1-2,bin,true,,81050,511,5,5,https://www.ts.kg/posters/john_wick.png,139,0,0
+1690176326266,303,https://www.ts.kg/category/films-17,200,OK,Thread Group 1-2,bin,true,,94196,511,5,5,https://www.ts.kg/posters/evil_dead.png,147,0,0
+1690176326452,443,https://www.ts.kg/category/films-18,200,OK,Thread Group 1-2,bin,true,,82774,518,5,5,https://www.ts.kg/posters/jeepers_creepers.png,254,0,0
+1690176326570,577,https://www.ts.kg/category/films-19,200,OK,Thread Group 1-2,bin,true,,91779,513,5,5,https://www.ts.kg/posters/hocus_pocus.png,453,0,0
+1690176326692,328,https://www.ts.kg/category/films-20,200,OK,Thread Group 1-2,bin,true,,88778,514,5,5,https://www.ts.kg/posters/scream_movie.png,203,0,0
+1690176326722,956,https://www.ts.kg/category/films-21,200,OK,Thread Group 1-2,bin,true,,107785,519,5,5,https://www.ts.kg/posters/asterix_et_obelix.png,712,0,443
+1690176326860,722,https://www.ts.kg/category/films-22,200,OK,Thread Group 1-2,bin,true,,75271,515,5,5,https://www.ts.kg/posters/lyubov_morkov.png,468,0,322
+1690176326896,412,https://www.ts.kg/category/films-23,200,OK,Thread Group 1-2,text,true,,539,514,5,5,https://www.ts.kg/img/flags/svg/4x3/ru.svg,411,0,288
+1690176326987,253,https://www.ts.kg/category/films-24,200,OK,Thread Group 1-2,bin,true,,85594,508,5,5,https://www.ts.kg/posters/avatar.png,111,0,0
+1690176327021,237,https://www.ts.kg/category/films-25,200,OK,Thread Group 1-2,bin,true,,99389,519,5,5,https://www.ts.kg/posters/a_man_called_otto.png,112,0,0
+1690176327149,424,https://www.ts.kg/category/films-26,200,OK,Thread Group 1-2,text,true,,1007,514,5,5,https://www.ts.kg/img/flags/svg/4x3/se.svg,424,0,314
+1690176327242,269,https://www.ts.kg/category/films-27,200,OK,Thread Group 1-2,bin,true,,85483,516,5,5,https://www.ts.kg/posters/murder_mystery.png,131,0,0
+1690176327259,191,https://www.ts.kg/category/films-28,200,OK,Thread Group 1-2,bin,true,,87309,507,5,5,https://www.ts.kg/posters/rocky.png,151,0,0
+1690176327310,679,https://www.ts.kg/category/films-29,200,OK,Thread Group 1-2,bin,true,,102485,522,5,5,https://www.ts.kg/posters/history_of_the_world.png,409,0,0
+1690176327451,188,https://www.ts.kg/category/films-30,200,OK,Thread Group 1-2,bin,true,,87894,520,5,5,https://www.ts.kg/posters/belle_et_sebastien.png,141,0,0
+1690176327511,138,https://www.ts.kg/category/films-31,200,OK,Thread Group 1-2,text,true,,543,514,5,5,https://www.ts.kg/img/flags/svg/4x3/fr.svg,138,0,0
+1690176327575,204,https://www.ts.kg/category/films-32,200,OK,Thread Group 1-2,bin,true,,80958,514,5,5,https://www.ts.kg/posters/casper_movie.png,126,0,0
+1690176327585,724,https://www.ts.kg/category/films-33,200,OK,Thread Group 1-2,bin,true,,97360,514,5,5,https://www.ts.kg/posters/neposlushnik.png,463,0,267
+1690176327640,154,https://www.ts.kg/category/films-34,200,OK,Thread Group 1-2,bin,true,,88167,512,5,5,https://www.ts.kg/posters/knives_out.png,114,0,0
+1690176327650,196,https://www.ts.kg/category/films-35,200,OK,Thread Group 1-2,bin,true,,89740,542,5,5,https://www.ts.kg/posters/luchshie_otechestvennye_novogodnie_filmy.png,76,0,0
+1690176327680,276,https://www.ts.kg/category/films-36,200,OK,Thread Group 1-2,bin,true,,86559,541,5,5,https://www.ts.kg/posters/clash_of_the_titans_wrath_of_the_titans.png,235,0,0
+1690176327779,827,https://www.ts.kg/category/films-37,200,OK,Thread Group 1-2,bin,true,,103475,507,5,5,https://www.ts.kg/posters/yolki.png,584,0,284
+1690176327795,156,https://www.ts.kg/category/films-38,200,OK,Thread Group 1-2,bin,true,,84903,519,5,5,https://www.ts.kg/posters/agashki_po_vyzovu.png,135,0,0
+1690176327847,116,https://www.ts.kg/category/films-39,200,OK,Thread Group 1-2,text,true,,17747,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kz.svg,116,0,0
+1690176327952,179,https://www.ts.kg/category/films-40,200,OK,Thread Group 1-2,bin,true,,99415,525,5,5,https://www.ts.kg/posters/don_t_fuck_in_the_woods.png,115,0,0
+1690176327958,234,https://www.ts.kg/category/films-41,200,OK,Thread Group 1-2,bin,true,,90068,512,5,5,https://www.ts.kg/posters/maior_grom.png,141,0,0
+1690176327964,251,https://www.ts.kg/category/films-42,200,OK,Thread Group 1-2,bin,true,,99785,530,5,5,https://www.ts.kg/posters/zarubezhnye_novogodnie_filmy.png,101,0,0
+1690176327989,649,https://www.ts.kg/category/films-43,200,OK,Thread Group 1-2,bin,true,,80126,517,5,5,https://www.ts.kg/posters/chestnyi_razvod.png,426,0,189
+1690176328132,181,https://www.ts.kg/category/films-44,200,OK,Thread Group 1-2,bin,true,,63688,514,5,5,https://www.ts.kg/posters/daddy_s_home.png,168,0,0
+1690176328193,892,https://www.ts.kg/category/films-45,200,OK,Thread Group 1-2,bin,true,,93935,508,5,5,https://www.ts.kg/posters/gongjo.png,522,0,300
+1690176328216,146,https://www.ts.kg/category/films-46,200,OK,Thread Group 1-2,text,true,,2651,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kr.svg,146,0,0
+1690176328313,810,https://www.ts.kg/category/films-47,200,OK,Thread Group 1-2,bin,true,,116598,511,5,5,https://www.ts.kg/posters/enchanted.png,554,0,297
+1690176328313,165,https://www.ts.kg/category/films-48,200,OK,Thread Group 1-2,bin,true,,82043,514,5,5,https://www.ts.kg/posters/harry_potter.png,115,0,0
+1690176328362,264,https://www.ts.kg/category/films-49,200,OK,Thread Group 1-2,bin,true,,113200,514,5,5,https://www.ts.kg/posters/enola_holmes.png,129,0,0
+1690176328479,142,https://www.ts.kg/category/films-50,200,OK,Thread Group 1-2,text,true,,1198,514,5,5,https://www.ts.kg/img/flags/svg/4x3/uk.svg,142,0,0
+1690176328609,760,https://www.ts.kg/category/films-51,200,OK,Thread Group 1-2,bin,true,,110908,509,5,5,https://www.ts.kg/posters/r_i_p_d.png,555,0,380
+1690176328621,229,https://www.ts.kg/category/films-52,200,OK,Thread Group 1-2,bin,true,,85247,513,5,5,https://www.ts.kg/posters/after_movie.png,105,0,0
+1690176328626,188,https://www.ts.kg/category/films-53,200,OK,Thread Group 1-2,bin,true,,61562,511,5,5,https://www.ts.kg/posters/halloween.png,96,0,0
+1690176328638,346,https://www.ts.kg/category/films-54,200,OK,Thread Group 1-2,bin,true,,82568,511,5,5,https://www.ts.kg/posters/the_witch.png,172,0,0
+1690176328815,573,https://www.ts.kg/category/films-55,200,OK,Thread Group 1-2,bin,true,,107225,529,5,5,https://www.ts.kg/posters/the_battle_at_lake_changjin.png,383,0,204
+1690176328851,155,https://www.ts.kg/category/films-56,200,OK,Thread Group 1-2,text,true,,1090,514,5,5,https://www.ts.kg/img/flags/svg/4x3/cn.svg,155,0,0
+1690176328984,180,https://www.ts.kg/category/films-57,200,OK,Thread Group 1-2,bin,true,,91023,521,5,5,https://www.ts.kg/posters/downton_abbey_movie.png,86,0,0
+1690176329006,129,https://www.ts.kg/category/films-58,200,OK,Thread Group 1-2,bin,true,,60007,506,5,5,https://www.ts.kg/posters/jaws.png,99,0,0
+1690176329086,323,https://www.ts.kg/category/films-59,200,OK,Thread Group 1-2,bin,true,,96103,518,5,5,https://www.ts.kg/posters/wolf_creek_movie.png,153,0,0
+1690176329123,116,https://www.ts.kg/category/films-60,200,OK,Thread Group 1-2,text,true,,2004,514,5,5,https://www.ts.kg/img/flags/svg/4x3/au.svg,116,0,0
+1690176329136,175,https://www.ts.kg/category/films-61,200,OK,Thread Group 1-2,bin,true,,98604,513,5,5,https://www.ts.kg/posters/podslushano.png,142,0,0
+1690176329164,151,https://www.ts.kg/category/films-62,200,OK,Thread Group 1-2,bin,true,,75330,526,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,128,0,0
+1690176329239,130,https://www.ts.kg/category/films-63,200,OK,Thread Group 1-2,bin,true,,52202,508,5,5,https://www.ts.kg/posters/orphan.png,97,0,0
+1690176329311,98,https://www.ts.kg/category/films-64,200,OK,Thread Group 1-2,bin,true,,49256,516,5,5,https://www.ts.kg/posters/the_mask_movie.png,79,0,0
+1690176329316,100,https://www.ts.kg/category/films-65,200,OK,Thread Group 1-2,bin,true,,79325,509,5,5,https://www.ts.kg/posters/top_gun.png,74,0,0
+1690176329369,135,https://www.ts.kg/category/films-66,200,OK,Thread Group 1-2,bin,true,,90334,510,5,5,https://www.ts.kg/posters/fortress.png,61,0,0
+1690176329369,166,https://www.ts.kg/category/films-67,200,OK,Thread Group 1-2,bin,true,,100706,514,5,5,https://www.ts.kg/posters/the_predator.png,62,0,0
+1690176329388,175,https://www.ts.kg/category/films-68,200,OK,Thread Group 1-2,bin,true,,109617,522,5,5,https://www.ts.kg/posters/mutant_ninja_turtles.png,72,0,0
+1690176329409,170,https://www.ts.kg/category/films-69,200,OK,Thread Group 1-2,bin,true,,82920,540,5,5,https://www.ts.kg/olol1/6cdb9f06d9aeb9fdc2d6724dd13a49838f622bc9.png,88,0,0
+1690176329409,86,https://www.ts.kg/category/films-70,200,OK,Thread Group 1-2,bin,true,,26019,540,5,5,https://www.ts.kg/olol1/545e6ac9531a27bff54c9e55c6a443335e3c1d97.png,85,0,0
+1690176329416,163,https://www.ts.kg/category/films-71,200,OK,Thread Group 1-2,text,true,,191792,518,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,67,0,0
+1690176329495,172,https://www.ts.kg/category/films-72,200,OK,Thread Group 1-2,text,true,,4569,501,5,5,https://ba.ts.kg/ba/async.php,172,0,121
+1690176322792,6926,https://www.ts.kg/category/films,200,OK,Thread Group 1-5,text,true,,5774283,37775,5,5,https://www.ts.kg/category/films,2209,0,1838
+1690176322792,2350,https://www.ts.kg/category/films-0,200,OK,Thread Group 1-5,text,true,,138429,504,5,5,https://www.ts.kg/category/films,2209,0,1838
+1690176325342,385,https://www.ts.kg/category/films-1,200,OK,Thread Group 1-5,bin,true,,9783,505,5,5,https://www.ts.kg/img/favicon.png,385,0,246
+1690176325337,273,https://www.ts.kg/category/films-2,200,OK,Thread Group 1-5,text,true,,196302,520,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,117,0,0
+1690176325337,360,https://www.ts.kg/category/films-3,200,OK,Thread Group 1-5,text,true,,266,504,5,5,https://www.ts.kg/js/branding.js,360,0,251
+1690176325339,1520,https://www.ts.kg/category/films-4,200,OK,Thread Group 1-5,text,true,,261286,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,911,0,564
+1690176325342,271,https://www.ts.kg/category/films-5,200,OK,Thread Group 1-5,text,true,,2245,502,5,5,https://www.ts.kg/img/logo.svg,271,0,162
+1690176325342,340,https://www.ts.kg/category/films-6,200,OK,Thread Group 1-5,bin,true,,23451,540,5,5,https://www.ts.kg/olol1/a539de10489030538d8388090d2d9da588c78c3d.jpg,267,0,135
+1690176325613,262,https://www.ts.kg/category/films-7,200,OK,Thread Group 1-5,bin,true,,110836,540,5,5,https://www.ts.kg/olol1/da1eea910301c443359d6b28f5162da77ccf13cd.jpg,124,0,0
+1690176325682,572,https://www.ts.kg/category/films-8,200,OK,Thread Group 1-5,bin,true,,45509,540,5,5,https://www.ts.kg/olol1/6358639d2f9d67fd229df11abe596425d2f929ec.jpg,570,0,175
+1690176325697,581,https://www.ts.kg/category/films-9,200,OK,Thread Group 1-5,bin,true,,88330,529,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,283,0,160
+1690176325732,200,https://www.ts.kg/category/films-10,200,OK,Thread Group 1-5,text,true,,6441,514,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,200,0,131
+1690176325876,381,https://www.ts.kg/category/films-11,200,OK,Thread Group 1-5,bin,true,,71909,532,5,5,https://www.ts.kg/posters/the_adventures_of_jurassic_pet.png,85,0,0
+1690176325932,324,https://www.ts.kg/category/films-12,200,OK,Thread Group 1-5,bin,true,,104167,525,5,5,https://www.ts.kg/posters/transformers_collection.png,319,0,0
+1690176326256,335,https://www.ts.kg/category/films-13,200,OK,Thread Group 1-5,bin,true,,100937,528,5,5,https://www.ts.kg/posters/marvel_saga_beskonechnosti.png,188,0,0
+1690176326258,775,https://www.ts.kg/category/films-14,200,OK,Thread Group 1-5,bin,true,,93853,518,5,5,https://www.ts.kg/posters/fast_and_furious.png,424,0,223
+1690176326267,746,https://www.ts.kg/category/films-15,200,OK,Thread Group 1-5,bin,true,,81663,512,5,5,https://www.ts.kg/posters/extraction.png,416,0,219
+1690176326279,850,https://www.ts.kg/category/films-16,200,OK,Thread Group 1-5,bin,true,,81050,511,5,5,https://www.ts.kg/posters/john_wick.png,694,0,351
+1690176326591,329,https://www.ts.kg/category/films-17,200,OK,Thread Group 1-5,bin,true,,94196,511,5,5,https://www.ts.kg/posters/evil_dead.png,132,0,0
+1690176326725,253,https://www.ts.kg/category/films-18,200,OK,Thread Group 1-5,bin,true,,82774,518,5,5,https://www.ts.kg/posters/jeepers_creepers.png,212,0,0
+1690176326859,514,https://www.ts.kg/category/films-19,200,OK,Thread Group 1-5,bin,true,,91779,513,5,5,https://www.ts.kg/posters/hocus_pocus.png,288,0,179
+1690176326921,194,https://www.ts.kg/category/films-20,200,OK,Thread Group 1-5,bin,true,,88778,514,5,5,https://www.ts.kg/posters/scream_movie.png,105,0,0
+1690176326978,169,https://www.ts.kg/category/films-21,200,OK,Thread Group 1-5,bin,true,,107785,519,5,5,https://www.ts.kg/posters/asterix_et_obelix.png,87,0,0
+1690176327016,625,https://www.ts.kg/category/films-22,200,OK,Thread Group 1-5,bin,true,,75271,515,5,5,https://www.ts.kg/posters/lyubov_morkov.png,432,0,169
+1690176327035,195,https://www.ts.kg/category/films-23,200,OK,Thread Group 1-5,text,true,,539,514,5,5,https://www.ts.kg/img/flags/svg/4x3/ru.svg,195,0,0
+1690176327117,154,https://www.ts.kg/category/films-24,200,OK,Thread Group 1-5,bin,true,,85594,508,5,5,https://www.ts.kg/posters/avatar.png,110,0,0
+1690176327133,726,https://www.ts.kg/category/films-25,200,OK,Thread Group 1-5,bin,true,,99389,519,5,5,https://www.ts.kg/posters/a_man_called_otto.png,493,0,209
+1690176327149,107,https://www.ts.kg/category/films-26,200,OK,Thread Group 1-5,text,true,,1007,514,5,5,https://www.ts.kg/img/flags/svg/4x3/se.svg,107,0,0
+1690176327232,724,https://www.ts.kg/category/films-27,200,OK,Thread Group 1-5,bin,true,,85483,516,5,5,https://www.ts.kg/posters/murder_mystery.png,529,0,297
+1690176327257,172,https://www.ts.kg/category/films-28,200,OK,Thread Group 1-5,bin,true,,87309,507,5,5,https://www.ts.kg/posters/rocky.png,144,0,0
+1690176327272,203,https://www.ts.kg/category/films-29,200,OK,Thread Group 1-5,bin,true,,102485,522,5,5,https://www.ts.kg/posters/history_of_the_world.png,141,0,0
+1690176327374,622,https://www.ts.kg/category/films-30,200,OK,Thread Group 1-5,bin,true,,87894,520,5,5,https://www.ts.kg/posters/belle_et_sebastien.png,402,0,195
+1690176327430,124,https://www.ts.kg/category/films-31,200,OK,Thread Group 1-5,text,true,,543,514,5,5,https://www.ts.kg/img/flags/svg/4x3/fr.svg,124,0,0
+1690176327476,179,https://www.ts.kg/category/films-32,200,OK,Thread Group 1-5,bin,true,,80958,514,5,5,https://www.ts.kg/posters/casper_movie.png,143,0,0
+1690176327555,168,https://www.ts.kg/category/films-33,200,OK,Thread Group 1-5,bin,true,,97360,514,5,5,https://www.ts.kg/posters/neposlushnik.png,128,0,0
+1690176327643,279,https://www.ts.kg/category/films-34,200,OK,Thread Group 1-5,bin,true,,88167,512,5,5,https://www.ts.kg/posters/knives_out.png,119,0,0
+1690176327657,643,https://www.ts.kg/category/films-35,200,OK,Thread Group 1-5,bin,true,,89740,542,5,5,https://www.ts.kg/posters/luchshie_otechestvennye_novogodnie_filmy.png,400,0,195
+1690176327723,164,https://www.ts.kg/category/films-36,200,OK,Thread Group 1-5,bin,true,,86559,541,5,5,https://www.ts.kg/posters/clash_of_the_titans_wrath_of_the_titans.png,123,0,0
+1690176327861,419,https://www.ts.kg/category/films-37,200,OK,Thread Group 1-5,bin,true,,103475,507,5,5,https://www.ts.kg/posters/yolki.png,230,0,0
+1690176327887,594,https://www.ts.kg/category/films-38,200,OK,Thread Group 1-5,bin,true,,84903,519,5,5,https://www.ts.kg/posters/agashki_po_vyzovu.png,370,0,176
+1690176327923,114,https://www.ts.kg/category/films-39,200,OK,Thread Group 1-5,text,true,,17747,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kz.svg,114,0,0
+1690176327958,720,https://www.ts.kg/category/films-40,200,OK,Thread Group 1-5,bin,true,,99415,525,5,5,https://www.ts.kg/posters/don_t_fuck_in_the_woods.png,455,0,212
+1690176327996,302,https://www.ts.kg/category/films-41,200,OK,Thread Group 1-5,bin,true,,90068,512,5,5,https://www.ts.kg/posters/maior_grom.png,131,0,0
+1690176328037,276,https://www.ts.kg/category/films-42,200,OK,Thread Group 1-5,bin,true,,99785,530,5,5,https://www.ts.kg/posters/zarubezhnye_novogodnie_filmy.png,155,0,0
+1690176328281,755,https://www.ts.kg/category/films-43,200,OK,Thread Group 1-5,bin,true,,80126,517,5,5,https://www.ts.kg/posters/chestnyi_razvod.png,445,0,232
+1690176328298,191,https://www.ts.kg/category/films-44,200,OK,Thread Group 1-5,bin,true,,63688,514,5,5,https://www.ts.kg/posters/daddy_s_home.png,133,0,0
+1690176328300,313,https://www.ts.kg/category/films-45,200,OK,Thread Group 1-5,bin,true,,93935,508,5,5,https://www.ts.kg/posters/gongjo.png,138,0,0
+1690176328313,107,https://www.ts.kg/category/films-46,200,OK,Thread Group 1-5,text,true,,2651,514,5,5,https://www.ts.kg/img/flags/svg/4x3/kr.svg,107,0,0
+1690176328421,260,https://www.ts.kg/category/films-47,200,OK,Thread Group 1-5,bin,true,,116598,511,5,5,https://www.ts.kg/posters/enchanted.png,178,0,0
+1690176328482,250,https://www.ts.kg/category/films-48,200,OK,Thread Group 1-5,bin,true,,82043,514,5,5,https://www.ts.kg/posters/harry_potter.png,151,0,0
+1690176328489,832,https://www.ts.kg/category/films-49,200,OK,Thread Group 1-5,bin,true,,113200,514,5,5,https://www.ts.kg/posters/enola_holmes.png,520,0,215
+1690176328614,85,https://www.ts.kg/category/films-50,200,OK,Thread Group 1-5,text,true,,1198,514,5,5,https://www.ts.kg/img/flags/svg/4x3/uk.svg,85,0,0
+1690176328678,729,https://www.ts.kg/category/films-51,200,OK,Thread Group 1-5,bin,true,,110908,509,5,5,https://www.ts.kg/posters/r_i_p_d.png,579,0,368
+1690176328682,287,https://www.ts.kg/category/films-52,200,OK,Thread Group 1-5,bin,true,,85247,513,5,5,https://www.ts.kg/posters/after_movie.png,209,0,0
+1690176328700,268,https://www.ts.kg/category/films-53,200,OK,Thread Group 1-5,bin,true,,61562,511,5,5,https://www.ts.kg/posters/halloween.png,208,0,0
+1690176328733,341,https://www.ts.kg/category/films-54,200,OK,Thread Group 1-5,bin,true,,82568,511,5,5,https://www.ts.kg/posters/the_witch.png,240,0,0
+1690176328968,212,https://www.ts.kg/category/films-55,200,OK,Thread Group 1-5,bin,true,,107225,529,5,5,https://www.ts.kg/posters/the_battle_at_lake_changjin.png,106,0,0
+1690176328969,105,https://www.ts.kg/category/films-56,200,OK,Thread Group 1-5,text,true,,1090,514,5,5,https://www.ts.kg/img/flags/svg/4x3/cn.svg,105,0,0
+1690176329036,277,https://www.ts.kg/category/films-57,200,OK,Thread Group 1-5,bin,true,,91023,521,5,5,https://www.ts.kg/posters/downton_abbey_movie.png,128,0,0
+1690176329074,156,https://www.ts.kg/category/films-58,200,OK,Thread Group 1-5,bin,true,,60007,506,5,5,https://www.ts.kg/posters/jaws.png,106,0,0
+1690176329074,166,https://www.ts.kg/category/films-59,200,OK,Thread Group 1-5,bin,true,,96103,518,5,5,https://www.ts.kg/posters/wolf_creek_movie.png,108,0,0
+1690176329181,120,https://www.ts.kg/category/films-60,200,OK,Thread Group 1-5,text,true,,2004,514,5,5,https://www.ts.kg/img/flags/svg/4x3/au.svg,120,0,0
+1690176329230,164,https://www.ts.kg/category/films-61,200,OK,Thread Group 1-5,bin,true,,98604,513,5,5,https://www.ts.kg/posters/podslushano.png,104,0,0
+1690176329240,123,https://www.ts.kg/category/films-62,200,OK,Thread Group 1-5,bin,true,,75330,526,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,94,0,0
+1690176329301,93,https://www.ts.kg/category/films-63,200,OK,Thread Group 1-5,bin,true,,52202,508,5,5,https://www.ts.kg/posters/orphan.png,75,0,0
+1690176329314,104,https://www.ts.kg/category/films-64,200,OK,Thread Group 1-5,bin,true,,49256,516,5,5,https://www.ts.kg/posters/the_mask_movie.png,74,0,0
+1690176329321,119,https://www.ts.kg/category/films-65,200,OK,Thread Group 1-5,bin,true,,79325,509,5,5,https://www.ts.kg/posters/top_gun.png,75,0,0
+1690176329363,104,https://www.ts.kg/category/films-66,200,OK,Thread Group 1-5,bin,true,,90334,510,5,5,https://www.ts.kg/posters/fortress.png,53,0,0
+1690176329395,324,https://www.ts.kg/category/films-67,200,OK,Thread Group 1-5,bin,true,,100706,514,5,5,https://www.ts.kg/posters/the_predator.png,252,0,137
+1690176329395,144,https://www.ts.kg/category/films-68,200,OK,Thread Group 1-5,bin,true,,109617,522,5,5,https://www.ts.kg/posters/mutant_ninja_turtles.png,73,0,0
+1690176329408,171,https://www.ts.kg/category/films-69,200,OK,Thread Group 1-5,bin,true,,166423,540,5,5,https://www.ts.kg/olol1/bd356d75ab0579f2fe3eea80573010238b643710.jpg,60,0,0
+1690176329419,113,https://www.ts.kg/category/films-70,200,OK,Thread Group 1-5,bin,true,,59489,540,5,5,https://www.ts.kg/olol1/71205dc669269ca755785e299372f284485ef1f0.jpg,71,0,0
+1690176329441,150,https://www.ts.kg/category/films-71,200,OK,Thread Group 1-5,text,true,,191792,518,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,92,0,0
+1690176329468,199,https://www.ts.kg/category/films-72,200,OK,Thread Group 1-5,text,true,,4569,501,5,5,https://ba.ts.kg/ba/async.php,199,0,145
+1690176329670,139,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-2,text,true,,1569,449,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1%7C2,139,0,87
+1690176329724,137,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-5,text,true,,1569,449,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&referer=https%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1%7C2,137,0,89
+1690176331146,995,https://www.ts.kg/show/transformers_collection,200,OK,Thread Group 1-4,text,true,,1084549,19231,5,5,https://www.ts.kg/show/transformers_collection,188,0,0
+1690176331146,229,https://www.ts.kg/show/transformers_collection-0,200,OK,Thread Group 1-4,text,true,,71273,518,5,5,https://www.ts.kg/show/transformers_collection,188,0,0
+1690176331388,177,https://www.ts.kg/show/transformers_collection-1,304,Not Modified,Thread Group 1-4,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,129
+1690176331388,68,https://www.ts.kg/show/transformers_collection-2,304,Not Modified,Thread Group 1-4,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176331389,67,https://www.ts.kg/show/transformers_collection-3,304,Not Modified,Thread Group 1-4,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176331389,326,https://www.ts.kg/show/transformers_collection-4,200,OK,Thread Group 1-4,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,135,0,0
+1690176331388,68,https://www.ts.kg/show/transformers_collection-5,304,Not Modified,Thread Group 1-4,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,0
+1690176331389,259,https://www.ts.kg/show/transformers_collection-6,200,OK,Thread Group 1-4,bin,true,,116375,540,5,5,https://www.ts.kg/olol1/0785725908013fa3ebda493124e75c1042eed89d.png,176,0,90
+1690176331456,128,https://www.ts.kg/show/transformers_collection-7,304,Not Modified,Thread Group 1-4,,true,,182,608,5,5,https://www.ts.kg/posters/transformers_collection.png,0,0,86
+1690176331456,139,https://www.ts.kg/show/transformers_collection-8,200,OK,Thread Group 1-4,bin,true,,5791,532,5,5,https://www.ts.kg/shots2/transformers_collection/34568_s.jpg,139,0,98
+1690176331456,129,https://www.ts.kg/show/transformers_collection-9,200,OK,Thread Group 1-4,bin,true,,6792,532,5,5,https://www.ts.kg/shots2/transformers_collection/34569_s.jpg,129,0,81
+1690176331565,41,https://www.ts.kg/show/transformers_collection-10,200,OK,Thread Group 1-4,bin,true,,5702,532,5,5,https://www.ts.kg/shots2/transformers_collection/34570_s.jpg,41,0,0
+1690176331585,52,https://www.ts.kg/show/transformers_collection-11,200,OK,Thread Group 1-4,bin,true,,5690,532,5,5,https://www.ts.kg/shots2/transformers_collection/34571_s.jpg,52,0,0
+1690176331585,153,https://www.ts.kg/show/transformers_collection-12,200,OK,Thread Group 1-4,bin,true,,7773,532,5,5,https://www.ts.kg/shots2/transformers_collection/34572_s.jpg,153,0,101
+1690176331595,143,https://www.ts.kg/show/transformers_collection-13,200,OK,Thread Group 1-4,bin,true,,6216,532,5,5,https://www.ts.kg/shots2/transformers_collection/34573_s.jpg,143,0,91
+1690176331607,59,https://www.ts.kg/show/transformers_collection-14,200,OK,Thread Group 1-4,bin,true,,7068,532,5,5,https://www.ts.kg/shots2/transformers_collection/34574_s.jpg,59,0,0
+1690176331637,50,https://www.ts.kg/show/transformers_collection-15,200,OK,Thread Group 1-4,bin,true,,7989,532,5,5,https://www.ts.kg/shots2/transformers_collection/34575_s.jpg,50,0,0
+1690176331648,153,https://www.ts.kg/show/transformers_collection-16,200,OK,Thread Group 1-4,bin,true,,7614,532,5,5,https://www.ts.kg/shots2/transformers_collection/34576_s.jpg,153,0,94
+1690176331667,42,https://www.ts.kg/show/transformers_collection-17,200,OK,Thread Group 1-4,bin,true,,7540,532,5,5,https://www.ts.kg/shots2/transformers_collection/34577_s.jpg,42,0,0
+1690176331688,59,https://www.ts.kg/show/transformers_collection-18,200,OK,Thread Group 1-4,bin,true,,7129,532,5,5,https://www.ts.kg/shots2/transformers_collection/34578_s.jpg,59,0,0
+1690176331709,56,https://www.ts.kg/show/transformers_collection-19,200,OK,Thread Group 1-4,bin,true,,6479,532,5,5,https://www.ts.kg/shots2/transformers_collection/34579_s.jpg,56,0,0
+1690176331716,49,https://www.ts.kg/show/transformers_collection-20,200,OK,Thread Group 1-4,bin,true,,7203,532,5,5,https://www.ts.kg/shots2/transformers_collection/34580_s.jpg,49,0,0
+1690176331739,152,https://www.ts.kg/show/transformers_collection-21,200,OK,Thread Group 1-4,bin,true,,6511,532,5,5,https://www.ts.kg/shots2/transformers_collection/34581_s.jpg,152,0,99
+1690176331739,62,https://www.ts.kg/show/transformers_collection-22,200,OK,Thread Group 1-4,bin,true,,6440,532,5,5,https://www.ts.kg/shots2/transformers_collection/34582_s.jpg,62,0,0
+1690176331747,88,https://www.ts.kg/show/transformers_collection-23,200,OK,Thread Group 1-4,bin,true,,30102,515,5,5,https://www.ts.kg/posters/betmen_v_kino.png,77,0,0
+1690176331766,47,https://www.ts.kg/show/transformers_collection-24,304,Not Modified,Thread Group 1-4,,true,,181,596,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,0,0,0
+1690176331766,269,https://www.ts.kg/show/transformers_collection-25,200,OK,Thread Group 1-4,bin,true,,94050,507,5,5,https://www.ts.kg/posters/x_men.png,185,0,92
+1690176331801,134,https://www.ts.kg/show/transformers_collection-26,304,Not Modified,Thread Group 1-4,,true,,182,609,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,0,0,74
+1690176331801,150,https://www.ts.kg/show/transformers_collection-27,200,OK,Thread Group 1-4,bin,true,,93459,515,5,5,https://www.ts.kg/posters/zvyozdnyi_put.png,64,0,0
+1690176331813,135,https://www.ts.kg/show/transformers_collection-28,200,OK,Thread Group 1-4,bin,true,,105727,531,5,5,https://www.ts.kg/posters/mission_impossible_collection.png,55,0,0
+1690176331835,37,https://www.ts.kg/show/transformers_collection-29,304,Not Modified,Thread Group 1-4,,true,,182,612,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,0,0,0
+1690176331872,151,https://www.ts.kg/show/transformers_collection-30,200,OK,Thread Group 1-4,bin,true,,133483,540,5,5,https://www.ts.kg/olol1/66767215eefd20c78a1dc1568b3e2ff5820db09a.png,63,0,0
+1690176331891,250,https://www.ts.kg/show/transformers_collection-31,200,OK,Thread Group 1-4,bin,true,,42160,540,5,5,https://www.ts.kg/olol1/01fcb2903a3eb98c0991b39251391795703a8ba4.png,225,0,136
+1690176331935,134,https://www.ts.kg/show/transformers_collection-32,304,Not Modified,Thread Group 1-4,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,92
+1690176331949,126,https://www.ts.kg/show/transformers_collection-33,304,Not modified,Thread Group 1-4,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,79
+1690176331951,71,https://www.ts.kg/show/transformers_collection-34,200,OK,Thread Group 1-4,text,true,,32893,537,5,5,https://www.ts.kg/js/jquery.blueimp-gallery.min.js?version=4.10.3,59,0,0
+1690176332147,46,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms,200,OK,Thread Group 1-4,text,true,,1629,526,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&prefix=revive-0-&zones=1%7C2,46,0,0
+1690176331414,791,https://www.ts.kg/show/transformers_collection,200,OK,Thread Group 1-1,text,true,,1003112,19231,5,5,https://www.ts.kg/show/transformers_collection,110,0,0
+1690176331414,150,https://www.ts.kg/show/transformers_collection-0,200,OK,Thread Group 1-1,text,true,,71483,518,5,5,https://www.ts.kg/show/transformers_collection,110,0,0
+1690176331574,164,https://www.ts.kg/show/transformers_collection-1,304,Not Modified,Thread Group 1-1,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,112
+1690176331575,163,https://www.ts.kg/show/transformers_collection-2,304,Not Modified,Thread Group 1-1,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,111
+1690176331574,44,https://www.ts.kg/show/transformers_collection-3,304,Not Modified,Thread Group 1-1,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176331575,315,https://www.ts.kg/show/transformers_collection-4,200,OK,Thread Group 1-1,text,true,,261277,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,118,0,0
+1690176331575,163,https://www.ts.kg/show/transformers_collection-5,304,Not Modified,Thread Group 1-1,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,112
+1690176331575,290,https://www.ts.kg/show/transformers_collection-6,200,OK,Thread Group 1-1,bin,true,,101431,540,5,5,https://www.ts.kg/olol1/9ce84634954d4fd925d3d8eae59e9eafa3d02226.jpg,201,0,112
+1690176331619,128,https://www.ts.kg/show/transformers_collection-7,304,Not Modified,Thread Group 1-1,,true,,182,608,5,5,https://www.ts.kg/posters/transformers_collection.png,0,0,82
+1690176331739,152,https://www.ts.kg/show/transformers_collection-8,200,OK,Thread Group 1-1,bin,true,,5791,532,5,5,https://www.ts.kg/shots2/transformers_collection/34568_s.jpg,152,0,99
+1690176331739,152,https://www.ts.kg/show/transformers_collection-9,200,OK,Thread Group 1-1,bin,true,,6792,532,5,5,https://www.ts.kg/shots2/transformers_collection/34569_s.jpg,152,0,99
+1690176331739,62,https://www.ts.kg/show/transformers_collection-10,200,OK,Thread Group 1-1,bin,true,,5702,532,5,5,https://www.ts.kg/shots2/transformers_collection/34570_s.jpg,62,0,0
+1690176331747,55,https://www.ts.kg/show/transformers_collection-11,200,OK,Thread Group 1-1,bin,true,,5690,532,5,5,https://www.ts.kg/shots2/transformers_collection/34571_s.jpg,55,0,0
+1690176331801,54,https://www.ts.kg/show/transformers_collection-12,200,OK,Thread Group 1-1,bin,true,,7773,532,5,5,https://www.ts.kg/shots2/transformers_collection/34572_s.jpg,54,0,0
+1690176331803,52,https://www.ts.kg/show/transformers_collection-13,200,OK,Thread Group 1-1,bin,true,,6216,532,5,5,https://www.ts.kg/shots2/transformers_collection/34573_s.jpg,52,0,0
+1690176331855,61,https://www.ts.kg/show/transformers_collection-14,200,OK,Thread Group 1-1,bin,true,,7068,532,5,5,https://www.ts.kg/shots2/transformers_collection/34574_s.jpg,61,0,0
+1690176331855,48,https://www.ts.kg/show/transformers_collection-15,200,OK,Thread Group 1-1,bin,true,,7989,532,5,5,https://www.ts.kg/shots2/transformers_collection/34575_s.jpg,48,0,0
+1690176331866,51,https://www.ts.kg/show/transformers_collection-16,200,OK,Thread Group 1-1,bin,true,,7614,532,5,5,https://www.ts.kg/shots2/transformers_collection/34576_s.jpg,51,0,0
+1690176331891,57,https://www.ts.kg/show/transformers_collection-17,200,OK,Thread Group 1-1,bin,true,,7540,532,5,5,https://www.ts.kg/shots2/transformers_collection/34577_s.jpg,57,0,0
+1690176331891,58,https://www.ts.kg/show/transformers_collection-18,200,OK,Thread Group 1-1,bin,true,,7129,532,5,5,https://www.ts.kg/shots2/transformers_collection/34578_s.jpg,57,0,0
+1690176331891,135,https://www.ts.kg/show/transformers_collection-19,200,OK,Thread Group 1-1,bin,true,,6479,532,5,5,https://www.ts.kg/shots2/transformers_collection/34579_s.jpg,135,0,93
+1690176331903,45,https://www.ts.kg/show/transformers_collection-20,200,OK,Thread Group 1-1,bin,true,,7203,532,5,5,https://www.ts.kg/shots2/transformers_collection/34580_s.jpg,45,0,0
+1690176331916,48,https://www.ts.kg/show/transformers_collection-21,200,OK,Thread Group 1-1,bin,true,,6511,532,5,5,https://www.ts.kg/shots2/transformers_collection/34581_s.jpg,48,0,0
+1690176331918,151,https://www.ts.kg/show/transformers_collection-22,200,OK,Thread Group 1-1,bin,true,,6440,532,5,5,https://www.ts.kg/shots2/transformers_collection/34582_s.jpg,151,0,109
+1690176331948,62,https://www.ts.kg/show/transformers_collection-23,200,OK,Thread Group 1-1,bin,true,,30102,515,5,5,https://www.ts.kg/posters/betmen_v_kino.png,62,0,0
+1690176331949,54,https://www.ts.kg/show/transformers_collection-24,304,Not Modified,Thread Group 1-1,,true,,181,596,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,0,0,0
+1690176331949,256,https://www.ts.kg/show/transformers_collection-25,200,OK,Thread Group 1-1,bin,true,,94050,507,5,5,https://www.ts.kg/posters/x_men.png,190,0,113
+1690176331965,57,https://www.ts.kg/show/transformers_collection-26,304,Not Modified,Thread Group 1-1,,true,,182,609,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,0,0,0
+1690176332003,136,https://www.ts.kg/show/transformers_collection-27,200,OK,Thread Group 1-1,bin,true,,93459,515,5,5,https://www.ts.kg/posters/zvyozdnyi_put.png,56,0,0
+1690176332011,83,https://www.ts.kg/show/transformers_collection-28,200,OK,Thread Group 1-1,bin,true,,105727,531,5,5,https://www.ts.kg/posters/mission_impossible_collection.png,47,0,0
+1690176332023,52,https://www.ts.kg/show/transformers_collection-29,304,Not Modified,Thread Group 1-1,,true,,182,612,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,0,0,0
+1690176332027,135,https://www.ts.kg/show/transformers_collection-30,200,OK,Thread Group 1-1,bin,true,,82920,540,5,5,https://www.ts.kg/olol1/6cdb9f06d9aeb9fdc2d6724dd13a49838f622bc9.png,60,0,0
+1690176332069,88,https://www.ts.kg/show/transformers_collection-31,200,OK,Thread Group 1-1,bin,true,,26019,540,5,5,https://www.ts.kg/olol1/545e6ac9531a27bff54c9e55c6a443335e3c1d97.png,65,0,0
+1690176332075,55,https://www.ts.kg/show/transformers_collection-32,304,Not Modified,Thread Group 1-1,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176332095,46,https://www.ts.kg/show/transformers_collection-33,304,Not modified,Thread Group 1-1,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176332130,63,https://www.ts.kg/show/transformers_collection-34,200,OK,Thread Group 1-1,text,true,,32893,537,5,5,https://www.ts.kg/js/jquery.blueimp-gallery.min.js?version=4.10.3,55,0,0
+1690176332206,48,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms,200,OK,Thread Group 1-1,text,true,,1629,526,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&prefix=revive-0-&zones=1%7C2,48,0,0
+1690176332341,1117,https://www.ts.kg/show/transformers_collection,200,OK,Thread Group 1-3,text,true,,884902,19396,5,5,https://www.ts.kg/show/transformers_collection,263,0,92
+1690176332341,346,https://www.ts.kg/show/transformers_collection-0,200,OK,Thread Group 1-3,text,true,,71320,518,5,5,https://www.ts.kg/show/transformers_collection,263,0,92
+1690176332713,52,https://www.ts.kg/show/transformers_collection-1,304,Not Modified,Thread Group 1-3,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176332714,162,https://www.ts.kg/show/transformers_collection-2,304,Not Modified,Thread Group 1-3,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,101
+1690176332716,160,https://www.ts.kg/show/transformers_collection-3,304,Not Modified,Thread Group 1-3,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,105
+1690176332716,313,https://www.ts.kg/show/transformers_collection-4,200,OK,Thread Group 1-3,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,115,0,0
+1690176332714,162,https://www.ts.kg/show/transformers_collection-5,304,Not Modified,Thread Group 1-3,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,101
+1690176332716,256,https://www.ts.kg/show/transformers_collection-6,200,OK,Thread Group 1-3,bin,true,,91970,540,5,5,https://www.ts.kg/olol1/776ff82cd2eb60cc57f75ea81becc63cc4a09ac3.png,186,0,99
+1690176332772,131,https://www.ts.kg/show/transformers_collection-7,304,Not Modified,Thread Group 1-3,,true,,182,608,5,5,https://www.ts.kg/posters/transformers_collection.png,0,0,95
+1690176332876,137,https://www.ts.kg/show/transformers_collection-8,200,OK,Thread Group 1-3,bin,true,,5791,532,5,5,https://www.ts.kg/shots2/transformers_collection/34568_s.jpg,137,0,91
+1690176332876,145,https://www.ts.kg/show/transformers_collection-9,200,OK,Thread Group 1-3,bin,true,,6792,532,5,5,https://www.ts.kg/shots2/transformers_collection/34569_s.jpg,145,0,106
+1690176332876,145,https://www.ts.kg/show/transformers_collection-10,200,OK,Thread Group 1-3,bin,true,,5702,532,5,5,https://www.ts.kg/shots2/transformers_collection/34570_s.jpg,145,0,106
+1690176332904,48,https://www.ts.kg/show/transformers_collection-11,200,OK,Thread Group 1-3,bin,true,,5690,532,5,5,https://www.ts.kg/shots2/transformers_collection/34571_s.jpg,48,0,0
+1690176332953,48,https://www.ts.kg/show/transformers_collection-12,200,OK,Thread Group 1-3,bin,true,,7773,532,5,5,https://www.ts.kg/shots2/transformers_collection/34572_s.jpg,48,0,0
+1690176332973,145,https://www.ts.kg/show/transformers_collection-13,200,OK,Thread Group 1-3,bin,true,,6216,532,5,5,https://www.ts.kg/shots2/transformers_collection/34573_s.jpg,145,0,93
+1690176333002,149,https://www.ts.kg/show/transformers_collection-14,200,OK,Thread Group 1-3,bin,true,,7068,532,5,5,https://www.ts.kg/shots2/transformers_collection/34574_s.jpg,149,0,87
+1690176333014,49,https://www.ts.kg/show/transformers_collection-15,200,OK,Thread Group 1-3,bin,true,,7989,532,5,5,https://www.ts.kg/shots2/transformers_collection/34575_s.jpg,49,0,0
+1690176333021,49,https://www.ts.kg/show/transformers_collection-16,200,OK,Thread Group 1-3,bin,true,,7614,532,5,5,https://www.ts.kg/shots2/transformers_collection/34576_s.jpg,49,0,0
+1690176333021,49,https://www.ts.kg/show/transformers_collection-17,200,OK,Thread Group 1-3,bin,true,,7540,532,5,5,https://www.ts.kg/shots2/transformers_collection/34577_s.jpg,49,0,0
+1690176333030,191,https://www.ts.kg/show/transformers_collection-18,200,OK,Thread Group 1-3,bin,true,,7129,532,5,5,https://www.ts.kg/shots2/transformers_collection/34578_s.jpg,191,0,137
+1690176333063,63,https://www.ts.kg/show/transformers_collection-19,200,OK,Thread Group 1-3,bin,true,,6479,532,5,5,https://www.ts.kg/shots2/transformers_collection/34579_s.jpg,63,0,0
+1690176333071,47,https://www.ts.kg/show/transformers_collection-20,200,OK,Thread Group 1-3,bin,true,,7203,532,5,5,https://www.ts.kg/shots2/transformers_collection/34580_s.jpg,47,0,0
+1690176333071,137,https://www.ts.kg/show/transformers_collection-21,200,OK,Thread Group 1-3,bin,true,,6511,532,5,5,https://www.ts.kg/shots2/transformers_collection/34581_s.jpg,137,0,94
+1690176333118,153,https://www.ts.kg/show/transformers_collection-22,200,OK,Thread Group 1-3,bin,true,,6440,532,5,5,https://www.ts.kg/shots2/transformers_collection/34582_s.jpg,153,0,94
+1690176333118,66,https://www.ts.kg/show/transformers_collection-23,200,OK,Thread Group 1-3,bin,true,,30102,515,5,5,https://www.ts.kg/posters/betmen_v_kino.png,59,0,0
+1690176333127,81,https://www.ts.kg/show/transformers_collection-24,304,Not Modified,Thread Group 1-3,,true,,181,596,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,0,0,0
+1690176333152,236,https://www.ts.kg/show/transformers_collection-25,200,OK,Thread Group 1-3,bin,true,,94050,507,5,5,https://www.ts.kg/posters/x_men.png,164,0,80
+1690176333184,37,https://www.ts.kg/show/transformers_collection-26,304,Not Modified,Thread Group 1-3,,true,,182,609,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,0,0,0
+1690176333209,128,https://www.ts.kg/show/transformers_collection-27,200,OK,Thread Group 1-3,bin,true,,93459,515,5,5,https://www.ts.kg/posters/zvyozdnyi_put.png,67,0,0
+1690176333209,179,https://www.ts.kg/show/transformers_collection-28,200,OK,Thread Group 1-3,bin,true,,105727,531,5,5,https://www.ts.kg/posters/mission_impossible_collection.png,79,0,0
+1690176333222,123,https://www.ts.kg/show/transformers_collection-29,304,Not Modified,Thread Group 1-3,,true,,182,612,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,0,0,78
+1690176333222,49,https://www.ts.kg/show/transformers_collection-30,304,Not Modified,Thread Group 1-3,,true,,182,623,5,5,https://www.ts.kg/olol1/6cdb9f06d9aeb9fdc2d6724dd13a49838f622bc9.png,0,0,0
+1690176333272,54,https://www.ts.kg/show/transformers_collection-31,304,Not Modified,Thread Group 1-3,,true,,181,622,5,5,https://www.ts.kg/olol1/545e6ac9531a27bff54c9e55c6a443335e3c1d97.png,0,0,0
+1690176333272,62,https://www.ts.kg/show/transformers_collection-32,304,Not Modified,Thread Group 1-3,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176333327,131,https://www.ts.kg/show/transformers_collection-33,304,Not modified,Thread Group 1-3,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,77
+1690176333334,92,https://www.ts.kg/show/transformers_collection-34,200,OK,Thread Group 1-3,text,true,,32893,537,5,5,https://www.ts.kg/js/jquery.blueimp-gallery.min.js?version=4.10.3,58,0,0
+1690176332562,910,https://www.ts.kg/show/transformers_collection,200,OK,Thread Group 1-5,text,true,,1084550,19231,5,5,https://www.ts.kg/show/transformers_collection,105,0,0
+1690176332562,138,https://www.ts.kg/show/transformers_collection-0,200,OK,Thread Group 1-5,text,true,,71274,518,5,5,https://www.ts.kg/show/transformers_collection,105,0,0
+1690176332717,159,https://www.ts.kg/show/transformers_collection-1,304,Not Modified,Thread Group 1-5,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,104
+1690176332717,159,https://www.ts.kg/show/transformers_collection-2,304,Not Modified,Thread Group 1-5,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,99
+1690176332717,146,https://www.ts.kg/show/transformers_collection-3,304,Not Modified,Thread Group 1-5,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,98
+1690176332718,323,https://www.ts.kg/show/transformers_collection-4,200,OK,Thread Group 1-5,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,126,0,0
+1690176332715,48,https://www.ts.kg/show/transformers_collection-5,304,Not Modified,Thread Group 1-5,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,0
+1690176332718,295,https://www.ts.kg/show/transformers_collection-6,200,OK,Thread Group 1-5,bin,true,,116375,540,5,5,https://www.ts.kg/olol1/0785725908013fa3ebda493124e75c1042eed89d.png,211,0,101
+1690176332767,47,https://www.ts.kg/show/transformers_collection-7,304,Not Modified,Thread Group 1-5,,true,,182,608,5,5,https://www.ts.kg/posters/transformers_collection.png,0,0,0
+1690176332816,60,https://www.ts.kg/show/transformers_collection-8,200,OK,Thread Group 1-5,bin,true,,5791,532,5,5,https://www.ts.kg/shots2/transformers_collection/34568_s.jpg,60,0,0
+1690176332863,138,https://www.ts.kg/show/transformers_collection-9,200,OK,Thread Group 1-5,bin,true,,6792,532,5,5,https://www.ts.kg/shots2/transformers_collection/34569_s.jpg,138,0,93
+1690176332876,138,https://www.ts.kg/show/transformers_collection-10,200,OK,Thread Group 1-5,bin,true,,5702,532,5,5,https://www.ts.kg/shots2/transformers_collection/34570_s.jpg,138,0,100
+1690176332876,138,https://www.ts.kg/show/transformers_collection-11,200,OK,Thread Group 1-5,bin,true,,5690,532,5,5,https://www.ts.kg/shots2/transformers_collection/34571_s.jpg,138,0,91
+1690176332876,144,https://www.ts.kg/show/transformers_collection-12,200,OK,Thread Group 1-5,bin,true,,7773,532,5,5,https://www.ts.kg/shots2/transformers_collection/34572_s.jpg,144,0,106
+1690176333002,124,https://www.ts.kg/show/transformers_collection-13,200,OK,Thread Group 1-5,bin,true,,6216,532,5,5,https://www.ts.kg/shots2/transformers_collection/34573_s.jpg,124,0,82
+1690176333014,49,https://www.ts.kg/show/transformers_collection-14,200,OK,Thread Group 1-5,bin,true,,7068,532,5,5,https://www.ts.kg/shots2/transformers_collection/34574_s.jpg,49,0,0
+1690176333014,137,https://www.ts.kg/show/transformers_collection-15,200,OK,Thread Group 1-5,bin,true,,7989,532,5,5,https://www.ts.kg/shots2/transformers_collection/34575_s.jpg,137,0,76
+1690176333014,56,https://www.ts.kg/show/transformers_collection-16,200,OK,Thread Group 1-5,bin,true,,7614,532,5,5,https://www.ts.kg/shots2/transformers_collection/34576_s.jpg,56,0,0
+1690176333021,49,https://www.ts.kg/show/transformers_collection-17,200,OK,Thread Group 1-5,bin,true,,7540,532,5,5,https://www.ts.kg/shots2/transformers_collection/34577_s.jpg,49,0,0
+1690176333042,38,https://www.ts.kg/show/transformers_collection-18,200,OK,Thread Group 1-5,bin,true,,7129,532,5,5,https://www.ts.kg/shots2/transformers_collection/34578_s.jpg,38,0,0
+1690176333063,63,https://www.ts.kg/show/transformers_collection-19,200,OK,Thread Group 1-5,bin,true,,6479,532,5,5,https://www.ts.kg/shots2/transformers_collection/34579_s.jpg,63,0,0
+1690176333071,55,https://www.ts.kg/show/transformers_collection-20,200,OK,Thread Group 1-5,bin,true,,7203,532,5,5,https://www.ts.kg/shots2/transformers_collection/34580_s.jpg,55,0,0
+1690176333071,137,https://www.ts.kg/show/transformers_collection-21,200,OK,Thread Group 1-5,bin,true,,6511,532,5,5,https://www.ts.kg/shots2/transformers_collection/34581_s.jpg,137,0,88
+1690176333080,38,https://www.ts.kg/show/transformers_collection-22,200,OK,Thread Group 1-5,bin,true,,6440,532,5,5,https://www.ts.kg/shots2/transformers_collection/34582_s.jpg,38,0,0
+1690176333118,60,https://www.ts.kg/show/transformers_collection-23,200,OK,Thread Group 1-5,bin,true,,30102,515,5,5,https://www.ts.kg/posters/betmen_v_kino.png,60,0,0
+1690176333127,142,https://www.ts.kg/show/transformers_collection-24,304,Not Modified,Thread Group 1-5,,true,,181,596,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,0,0,85
+1690176333127,126,https://www.ts.kg/show/transformers_collection-25,200,OK,Thread Group 1-5,bin,true,,94050,507,5,5,https://www.ts.kg/posters/x_men.png,57,0,0
+1690176333127,43,https://www.ts.kg/show/transformers_collection-26,304,Not Modified,Thread Group 1-5,,true,,182,609,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,0,0,0
+1690176333152,222,https://www.ts.kg/show/transformers_collection-27,200,OK,Thread Group 1-5,bin,true,,93459,515,5,5,https://www.ts.kg/posters/zvyozdnyi_put.png,136,0,0
+1690176333171,163,https://www.ts.kg/show/transformers_collection-28,200,OK,Thread Group 1-5,bin,true,,105727,531,5,5,https://www.ts.kg/posters/mission_impossible_collection.png,58,0,0
+1690176333179,42,https://www.ts.kg/show/transformers_collection-29,304,Not Modified,Thread Group 1-5,,true,,182,612,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,0,0,0
+1690176333209,263,https://www.ts.kg/show/transformers_collection-30,200,OK,Thread Group 1-5,bin,true,,133483,540,5,5,https://www.ts.kg/olol1/66767215eefd20c78a1dc1568b3e2ff5820db09a.png,171,0,92
+1690176333222,110,https://www.ts.kg/show/transformers_collection-31,200,OK,Thread Group 1-5,bin,true,,42160,540,5,5,https://www.ts.kg/olol1/01fcb2903a3eb98c0991b39251391795703a8ba4.png,55,0,0
+1690176333253,44,https://www.ts.kg/show/transformers_collection-32,304,Not Modified,Thread Group 1-5,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176333270,130,https://www.ts.kg/show/transformers_collection-33,304,Not modified,Thread Group 1-5,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,84
+1690176333297,63,https://www.ts.kg/show/transformers_collection-34,200,OK,Thread Group 1-5,text,true,,32893,537,5,5,https://www.ts.kg/js/jquery.blueimp-gallery.min.js?version=4.10.3,52,0,0
+1690176333459,62,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms,200,OK,Thread Group 1-3,text,true,,1629,526,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&prefix=revive-0-&zones=1%7C2,62,0,0
+1690176333474,47,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms,200,OK,Thread Group 1-5,text,true,,1629,526,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&prefix=revive-0-&zones=1%7C2,47,0,0
+1690176333102,939,https://www.ts.kg/show/transformers_collection,200,OK,Thread Group 1-2,text,true,,1084573,19231,5,5,https://www.ts.kg/show/transformers_collection,265,0,110
+1690176333102,324,https://www.ts.kg/show/transformers_collection-0,200,OK,Thread Group 1-2,text,true,,71297,518,5,5,https://www.ts.kg/show/transformers_collection,265,0,110
+1690176333434,31,https://www.ts.kg/show/transformers_collection-1,304,Not Modified,Thread Group 1-2,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176333436,141,https://www.ts.kg/show/transformers_collection-2,304,Not Modified,Thread Group 1-2,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,89
+1690176333438,139,https://www.ts.kg/show/transformers_collection-3,304,Not Modified,Thread Group 1-2,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,88
+1690176333439,295,https://www.ts.kg/show/transformers_collection-4,200,OK,Thread Group 1-2,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,104,0,0
+1690176333440,137,https://www.ts.kg/show/transformers_collection-5,304,Not Modified,Thread Group 1-2,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,86
+1690176333440,294,https://www.ts.kg/show/transformers_collection-6,200,OK,Thread Group 1-2,bin,true,,116375,540,5,5,https://www.ts.kg/olol1/0785725908013fa3ebda493124e75c1042eed89d.png,186,0,99
+1690176333466,55,https://www.ts.kg/show/transformers_collection-7,304,Not Modified,Thread Group 1-2,,true,,182,608,5,5,https://www.ts.kg/posters/transformers_collection.png,0,0,0
+1690176333523,54,https://www.ts.kg/show/transformers_collection-8,200,OK,Thread Group 1-2,bin,true,,5791,532,5,5,https://www.ts.kg/shots2/transformers_collection/34568_s.jpg,54,0,0
+1690176333577,49,https://www.ts.kg/show/transformers_collection-9,200,OK,Thread Group 1-2,bin,true,,6792,532,5,5,https://www.ts.kg/shots2/transformers_collection/34569_s.jpg,49,0,0
+1690176333577,49,https://www.ts.kg/show/transformers_collection-10,200,OK,Thread Group 1-2,bin,true,,5702,532,5,5,https://www.ts.kg/shots2/transformers_collection/34570_s.jpg,49,0,0
+1690176333577,153,https://www.ts.kg/show/transformers_collection-11,200,OK,Thread Group 1-2,bin,true,,5690,532,5,5,https://www.ts.kg/shots2/transformers_collection/34571_s.jpg,153,0,96
+1690176333578,49,https://www.ts.kg/show/transformers_collection-12,200,OK,Thread Group 1-2,bin,true,,7773,532,5,5,https://www.ts.kg/shots2/transformers_collection/34572_s.jpg,49,0,0
+1690176333626,53,https://www.ts.kg/show/transformers_collection-13,200,OK,Thread Group 1-2,bin,true,,6216,532,5,5,https://www.ts.kg/shots2/transformers_collection/34573_s.jpg,53,0,0
+1690176333626,60,https://www.ts.kg/show/transformers_collection-14,200,OK,Thread Group 1-2,bin,true,,7068,532,5,5,https://www.ts.kg/shots2/transformers_collection/34574_s.jpg,60,0,0
+1690176333627,60,https://www.ts.kg/show/transformers_collection-15,200,OK,Thread Group 1-2,bin,true,,7989,532,5,5,https://www.ts.kg/shots2/transformers_collection/34575_s.jpg,60,0,0
+1690176333679,55,https://www.ts.kg/show/transformers_collection-16,200,OK,Thread Group 1-2,bin,true,,7614,532,5,5,https://www.ts.kg/shots2/transformers_collection/34576_s.jpg,55,0,0
+1690176333687,55,https://www.ts.kg/show/transformers_collection-17,200,OK,Thread Group 1-2,bin,true,,7540,532,5,5,https://www.ts.kg/shots2/transformers_collection/34577_s.jpg,55,0,0
+1690176333687,55,https://www.ts.kg/show/transformers_collection-18,200,OK,Thread Group 1-2,bin,true,,7129,532,5,5,https://www.ts.kg/shots2/transformers_collection/34578_s.jpg,55,0,0
+1690176333730,63,https://www.ts.kg/show/transformers_collection-19,200,OK,Thread Group 1-2,bin,true,,6479,532,5,5,https://www.ts.kg/shots2/transformers_collection/34579_s.jpg,63,0,0
+1690176333735,178,https://www.ts.kg/show/transformers_collection-20,200,OK,Thread Group 1-2,bin,true,,7203,532,5,5,https://www.ts.kg/shots2/transformers_collection/34580_s.jpg,178,0,129
+1690176333735,58,https://www.ts.kg/show/transformers_collection-21,200,OK,Thread Group 1-2,bin,true,,6511,532,5,5,https://www.ts.kg/shots2/transformers_collection/34581_s.jpg,58,0,0
+1690176333735,58,https://www.ts.kg/show/transformers_collection-22,200,OK,Thread Group 1-2,bin,true,,6440,532,5,5,https://www.ts.kg/shots2/transformers_collection/34582_s.jpg,58,0,0
+1690176333743,88,https://www.ts.kg/show/transformers_collection-23,200,OK,Thread Group 1-2,bin,true,,30102,515,5,5,https://www.ts.kg/posters/betmen_v_kino.png,60,0,0
+1690176333743,50,https://www.ts.kg/show/transformers_collection-24,304,Not Modified,Thread Group 1-2,,true,,181,596,5,5,https://www.ts.kg/img/flags/svg/4x3/us.svg,0,0,0
+1690176333793,178,https://www.ts.kg/show/transformers_collection-25,200,OK,Thread Group 1-2,bin,true,,94050,507,5,5,https://www.ts.kg/posters/x_men.png,73,0,0
+1690176333793,50,https://www.ts.kg/show/transformers_collection-26,304,Not Modified,Thread Group 1-2,,true,,182,609,5,5,https://www.ts.kg/posters/jurassic_park_collection.png,0,0,0
+1690176333793,140,https://www.ts.kg/show/transformers_collection-27,200,OK,Thread Group 1-2,bin,true,,93459,515,5,5,https://www.ts.kg/posters/zvyozdnyi_put.png,72,0,0
+1690176333793,121,https://www.ts.kg/show/transformers_collection-28,200,OK,Thread Group 1-2,bin,true,,105727,531,5,5,https://www.ts.kg/posters/mission_impossible_collection.png,67,0,0
+1690176333831,54,https://www.ts.kg/show/transformers_collection-29,304,Not Modified,Thread Group 1-2,,true,,182,612,5,5,https://www.ts.kg/posters/rasshirennaya_vselennaya_dc.png,0,0,0
+1690176333843,86,https://www.ts.kg/show/transformers_collection-30,200,OK,Thread Group 1-2,bin,true,,133483,540,5,5,https://www.ts.kg/olol1/66767215eefd20c78a1dc1568b3e2ff5820db09a.png,43,0,0
+1690176333886,90,https://www.ts.kg/show/transformers_collection-31,200,OK,Thread Group 1-2,bin,true,,42160,540,5,5,https://www.ts.kg/olol1/01fcb2903a3eb98c0991b39251391795703a8ba4.png,62,0,0
+1690176333913,45,https://www.ts.kg/show/transformers_collection-32,304,Not Modified,Thread Group 1-2,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176333915,126,https://www.ts.kg/show/transformers_collection-33,304,Not modified,Thread Group 1-2,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,86
+1690176333929,47,https://www.ts.kg/show/transformers_collection-34,200,OK,Thread Group 1-2,text,true,,32893,537,5,5,https://www.ts.kg/js/jquery.blueimp-gallery.min.js?version=4.10.3,36,0,0
+1690176334043,47,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms,200,OK,Thread Group 1-2,text,true,,1629,526,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&referer=https%3A%2F%2Fwww.ts.kg%2Fcategory%2Ffilms&prefix=revive-0-&zones=1%7C2,47,0,0
+1690176334044,658,https://www.ts.kg/show/transformers_collection/1/1,200,OK,Thread Group 1-3,text,true,,1474623,9419,5,5,https://www.ts.kg/show/transformers_collection/1/1,143,0,0
+1690176334044,147,https://www.ts.kg/show/transformers_collection/1/1-0,200,OK,Thread Group 1-3,text,true,,54749,522,5,5,https://www.ts.kg/show/transformers_collection/1/1,143,0,0
+1690176334196,58,https://www.ts.kg/show/transformers_collection/1/1-1,304,Not Modified,Thread Group 1-3,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176334197,57,https://www.ts.kg/show/transformers_collection/1/1-2,304,Not Modified,Thread Group 1-3,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176334197,57,https://www.ts.kg/show/transformers_collection/1/1-3,304,Not Modified,Thread Group 1-3,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176334198,187,https://www.ts.kg/show/transformers_collection/1/1-4,200,OK,Thread Group 1-3,text,true,,41330,529,5,5,https://www.ts.kg/videojs/video-js.min.css?version=4.10.3,175,0,82
+1690176334199,231,https://www.ts.kg/show/transformers_collection/1/1-5,200,OK,Thread Group 1-3,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,132,0,0
+1690176334200,156,https://www.ts.kg/show/transformers_collection/1/1-6,304,Not Modified,Thread Group 1-3,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,108
+1690176334255,90,https://www.ts.kg/show/transformers_collection/1/1-7,200,OK,Thread Group 1-3,bin,true,,95353,540,5,5,https://www.ts.kg/olol1/8cbb2107d378f0c2c90b6e4ec3b49052a7ff35cb.jpg,59,0,0
+1690176334255,383,https://www.ts.kg/show/transformers_collection/1/1-8,200,OK,Thread Group 1-3,bin,true,,113413,540,5,5,https://www.ts.kg/olol1/877a8befc670cefaad32cb3f7fbf6397a62962d6.jpg,192,0,93
+1690176334255,299,https://www.ts.kg/show/transformers_collection/1/1-9,200,OK,Thread Group 1-3,bin,true,,68819,540,5,5,https://www.ts.kg/olol1/91a6927a98b2ba7b5190067332de9b8c9b295238.jpg,203,0,94
+1690176334346,119,https://www.ts.kg/show/transformers_collection/1/1-10,200,OK,Thread Group 1-3,bin,true,,166423,540,5,5,https://www.ts.kg/olol1/bd356d75ab0579f2fe3eea80573010238b643710.jpg,59,0,0
+1690176334357,326,https://www.ts.kg/show/transformers_collection/1/1-11,200,OK,Thread Group 1-3,bin,true,,59489,540,5,5,https://www.ts.kg/olol1/71205dc669269ca755785e299372f284485ef1f0.jpg,258,0,111
+1690176334431,37,https://www.ts.kg/show/transformers_collection/1/1-12,304,Not Modified,Thread Group 1-3,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176334445,226,https://www.ts.kg/show/transformers_collection/1/1-13,304,Not modified,Thread Group 1-3,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,173
+1690176334465,237,https://www.ts.kg/show/transformers_collection/1/1-14,200,OK,Thread Group 1-3,text,true,,589506,525,5,5,https://www.ts.kg/videojs/video.min.js?version=4.10.3,81,0,0
+1690176334468,203,https://www.ts.kg/show/transformers_collection/1/1-15,200,OK,Thread Group 1-3,text,true,,4713,542,5,5,https://www.ts.kg/legacy/videojs/videojs.hotkeys.min.js?version=4.10.3,203,0,153
+1690176334555,71,https://www.ts.kg/show/transformers_collection/1/1-16,200,OK,Thread Group 1-3,text,true,,18465,518,5,5,https://www.ts.kg/js/episode.js?version=4.10.3,71,0,0
+1690176334703,38,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection,200,OK,Thread Group 1-3,text,true,,1673,548,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&prefix=revive-0-&zones=1%7C2,38,0,0
+1690176334742,93,https://www.ts.kg/show/episode/episode.json?episode=284630,200,OK,Thread Group 1-3,text,true,,1430,445,5,5,https://www.ts.kg/show/episode/episode.json?episode=284630,93,0,0
+1690176334836,70,https://www.ts.kg/show/episode/nav.json?episode=284630,200,OK,Thread Group 1-3,text,true,,4469,398,5,5,https://www.ts.kg/show/episode/nav.json?episode=284630,70,0,0
+1690176334909,162,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,200,OK,Thread Group 1-3,text,true,,454,384,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,162,0,89
+1690176335072,210,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,200,OK,Thread Group 1-3,text,true,,26904,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,168,0,0
+1690176335283,307,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,200,OK,Thread Group 1-3,bin,true,,819707,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,71,0,0
+1690176334992,789,https://www.ts.kg/show/transformers_collection/1/1,200,OK,Thread Group 1-5,text,true,,1309577,9419,5,5,https://www.ts.kg/show/transformers_collection/1/1,134,0,0
+1690176334992,140,https://www.ts.kg/show/transformers_collection/1/1-0,200,OK,Thread Group 1-5,text,true,,54708,522,5,5,https://www.ts.kg/show/transformers_collection/1/1,134,0,0
+1690176335137,43,https://www.ts.kg/show/transformers_collection/1/1-1,304,Not Modified,Thread Group 1-5,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176335137,146,https://www.ts.kg/show/transformers_collection/1/1-2,304,Not Modified,Thread Group 1-5,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,95
+1690176335137,166,https://www.ts.kg/show/transformers_collection/1/1-3,304,Not Modified,Thread Group 1-5,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,105
+1690176335137,228,https://www.ts.kg/show/transformers_collection/1/1-4,200,OK,Thread Group 1-5,text,true,,41330,529,5,5,https://www.ts.kg/videojs/video-js.min.css?version=4.10.3,206,0,105
+1690176335137,228,https://www.ts.kg/show/transformers_collection/1/1-5,200,OK,Thread Group 1-5,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,122,0,0
+1690176335137,146,https://www.ts.kg/show/transformers_collection/1/1-6,304,Not Modified,Thread Group 1-5,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,104
+1690176335180,77,https://www.ts.kg/show/transformers_collection/1/1-7,200,OK,Thread Group 1-5,bin,true,,90448,540,5,5,https://www.ts.kg/olol1/e0a55c3a1f1dacd252e1d6cd1d7f967de7b35a5b.jpg,58,0,0
+1690176335258,62,https://www.ts.kg/show/transformers_collection/1/1-8,200,OK,Thread Group 1-5,bin,true,,26376,540,5,5,https://www.ts.kg/olol1/3d5a6c0ddf1752130d56d6b01d066a9a3b87032c.jpg,58,0,0
+1690176335283,192,https://www.ts.kg/show/transformers_collection/1/1-9,200,OK,Thread Group 1-5,bin,true,,16566,540,5,5,https://www.ts.kg/olol1/312b5d019446c05db4fad8e9a70a4ffdfd0d089a.jpg,192,0,96
+1690176335283,295,https://www.ts.kg/show/transformers_collection/1/1-10,200,OK,Thread Group 1-5,bin,true,,118660,540,5,5,https://www.ts.kg/olol1/8ef87321417187f74edfba07a4132e28309a68ea.jpg,191,0,96
+1690176335304,251,https://www.ts.kg/show/transformers_collection/1/1-11,200,OK,Thread Group 1-5,bin,true,,86451,540,5,5,https://www.ts.kg/olol1/fa0eccf95209f8a34236129884a70ca98fc81ac6.jpg,169,0,75
+1690176335321,44,https://www.ts.kg/show/transformers_collection/1/1-12,304,Not Modified,Thread Group 1-5,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176335365,46,https://www.ts.kg/show/transformers_collection/1/1-13,304,Not modified,Thread Group 1-5,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176335366,415,https://www.ts.kg/show/transformers_collection/1/1-14,200,OK,Thread Group 1-5,text,true,,589506,525,5,5,https://www.ts.kg/videojs/video.min.js?version=4.10.3,204,0,100
+1690176335366,156,https://www.ts.kg/show/transformers_collection/1/1-15,200,OK,Thread Group 1-5,text,true,,4713,542,5,5,https://www.ts.kg/legacy/videojs/videojs.hotkeys.min.js?version=4.10.3,156,0,101
+1690176335411,179,https://www.ts.kg/show/transformers_collection/1/1-16,200,OK,Thread Group 1-5,text,true,,18465,518,5,5,https://www.ts.kg/js/episode.js?version=4.10.3,179,0,99
+1690176335782,45,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection,200,OK,Thread Group 1-5,text,true,,1673,548,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&prefix=revive-0-&zones=1%7C2,45,0,0
+1690176335828,89,https://www.ts.kg/show/episode/episode.json?episode=284630,200,OK,Thread Group 1-5,text,true,,1437,445,5,5,https://www.ts.kg/show/episode/episode.json?episode=284630,89,0,0
+1690176335918,67,https://www.ts.kg/show/episode/nav.json?episode=284630,200,OK,Thread Group 1-5,text,true,,4469,398,5,5,https://www.ts.kg/show/episode/nav.json?episode=284630,67,0,0
+1690176335987,140,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,200,OK,Thread Group 1-5,text,true,,454,384,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,139,0,82
+1690176336127,71,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,200,OK,Thread Group 1-5,text,true,,26904,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,44,0,0
+1690176336199,267,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,200,OK,Thread Group 1-5,bin,true,,819707,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,55,0,0
+1690176336543,665,https://www.ts.kg/show/transformers_collection/1/1,200,OK,Thread Group 1-1,text,true,,1310978,9419,5,5,https://www.ts.kg/show/transformers_collection/1/1,120,0,0
+1690176336543,130,https://www.ts.kg/show/transformers_collection/1/1-0,200,OK,Thread Group 1-1,text,true,,54587,522,5,5,https://www.ts.kg/show/transformers_collection/1/1,120,0,0
+1690176336677,151,https://www.ts.kg/show/transformers_collection/1/1-1,304,Not Modified,Thread Group 1-1,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,95
+1690176336677,38,https://www.ts.kg/show/transformers_collection/1/1-2,304,Not Modified,Thread Group 1-1,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176336677,41,https://www.ts.kg/show/transformers_collection/1/1-3,304,Not Modified,Thread Group 1-1,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176336677,222,https://www.ts.kg/show/transformers_collection/1/1-4,200,OK,Thread Group 1-1,text,true,,41330,529,5,5,https://www.ts.kg/videojs/video-js.min.css?version=4.10.3,201,0,95
+1690176336677,201,https://www.ts.kg/show/transformers_collection/1/1-5,200,OK,Thread Group 1-1,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,103,0,0
+1690176336678,147,https://www.ts.kg/show/transformers_collection/1/1-6,304,Not Modified,Thread Group 1-1,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,94
+1690176336715,279,https://www.ts.kg/show/transformers_collection/1/1-7,200,OK,Thread Group 1-1,bin,true,,91970,540,5,5,https://www.ts.kg/olol1/776ff82cd2eb60cc57f75ea81becc63cc4a09ac3.png,209,0,113
+1690176336718,206,https://www.ts.kg/show/transformers_collection/1/1-8,200,OK,Thread Group 1-1,bin,true,,26376,540,5,5,https://www.ts.kg/olol1/3d5a6c0ddf1752130d56d6b01d066a9a3b87032c.jpg,206,0,111
+1690176336825,205,https://www.ts.kg/show/transformers_collection/1/1-9,200,OK,Thread Group 1-1,bin,true,,16566,540,5,5,https://www.ts.kg/olol1/312b5d019446c05db4fad8e9a70a4ffdfd0d089a.jpg,205,0,103
+1690176336829,257,https://www.ts.kg/show/transformers_collection/1/1-10,200,OK,Thread Group 1-1,bin,true,,118660,540,5,5,https://www.ts.kg/olol1/8ef87321417187f74edfba07a4132e28309a68ea.jpg,177,0,99
+1690176336879,241,https://www.ts.kg/show/transformers_collection/1/1-11,200,OK,Thread Group 1-1,bin,true,,86451,540,5,5,https://www.ts.kg/olol1/fa0eccf95209f8a34236129884a70ca98fc81ac6.jpg,179,0,93
+1690176336900,134,https://www.ts.kg/show/transformers_collection/1/1-12,304,Not Modified,Thread Group 1-1,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,86
+1690176336925,154,https://www.ts.kg/show/transformers_collection/1/1-13,304,Not modified,Thread Group 1-1,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,96
+1690176336994,214,https://www.ts.kg/show/transformers_collection/1/1-14,200,OK,Thread Group 1-1,text,true,,589506,525,5,5,https://www.ts.kg/videojs/video.min.js?version=4.10.3,63,0,0
+1690176337030,49,https://www.ts.kg/show/transformers_collection/1/1-15,200,OK,Thread Group 1-1,text,true,,4713,542,5,5,https://www.ts.kg/legacy/videojs/videojs.hotkeys.min.js?version=4.10.3,49,0,0
+1690176337034,76,https://www.ts.kg/show/transformers_collection/1/1-16,200,OK,Thread Group 1-1,text,true,,18465,518,5,5,https://www.ts.kg/js/episode.js?version=4.10.3,51,0,0
+1690176337209,44,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection,200,OK,Thread Group 1-1,text,true,,1673,548,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&prefix=revive-0-&zones=1%7C2,44,0,0
+1690176337254,100,https://www.ts.kg/show/episode/episode.json?episode=284630,200,OK,Thread Group 1-1,text,true,,1430,445,5,5,https://www.ts.kg/show/episode/episode.json?episode=284630,100,0,0
+1690176337355,76,https://www.ts.kg/show/episode/nav.json?episode=284630,200,OK,Thread Group 1-1,text,true,,4469,398,5,5,https://www.ts.kg/show/episode/nav.json?episode=284630,76,0,0
+1690176337433,125,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,200,OK,Thread Group 1-1,text,true,,454,384,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,125,0,80
+1690176337559,141,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,200,OK,Thread Group 1-1,text,true,,26904,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,53,0,0
+1690176337157,763,https://www.ts.kg/show/transformers_collection/1/1,200,OK,Thread Group 1-4,text,true,,1393830,9419,5,5,https://www.ts.kg/show/transformers_collection/1/1,128,0,0
+1690176337157,135,https://www.ts.kg/show/transformers_collection/1/1-0,200,OK,Thread Group 1-4,text,true,,54511,522,5,5,https://www.ts.kg/show/transformers_collection/1/1,128,0,0
+1690176337296,48,https://www.ts.kg/show/transformers_collection/1/1-1,304,Not Modified,Thread Group 1-4,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176337297,52,https://www.ts.kg/show/transformers_collection/1/1-2,304,Not Modified,Thread Group 1-4,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176337297,52,https://www.ts.kg/show/transformers_collection/1/1-3,304,Not Modified,Thread Group 1-4,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176337296,127,https://www.ts.kg/show/transformers_collection/1/1-4,200,OK,Thread Group 1-4,text,true,,41330,529,5,5,https://www.ts.kg/videojs/video-js.min.css?version=4.10.3,69,0,0
+1690176337297,210,https://www.ts.kg/show/transformers_collection/1/1-5,200,OK,Thread Group 1-4,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,134,0,0
+1690176337297,52,https://www.ts.kg/show/transformers_collection/1/1-6,304,Not Modified,Thread Group 1-4,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,0
+1690176337345,270,https://www.ts.kg/show/transformers_collection/1/1-7,200,OK,Thread Group 1-4,bin,true,,90448,540,5,5,https://www.ts.kg/olol1/e0a55c3a1f1dacd252e1d6cd1d7f967de7b35a5b.jpg,183,0,108
+1690176337350,260,https://www.ts.kg/show/transformers_collection/1/1-8,200,OK,Thread Group 1-4,bin,true,,61290,540,5,5,https://www.ts.kg/olol1/60d3b878b445cbfe4211260a0ee5f046d0c9ee28.png,209,0,126
+1690176337350,207,https://www.ts.kg/show/transformers_collection/1/1-9,200,OK,Thread Group 1-4,bin,true,,30404,540,5,5,https://www.ts.kg/olol1/9c8e85b2f945114ea3b50bcb3d5f153b45ccdd67.png,197,0,102
+1690176337350,364,https://www.ts.kg/show/transformers_collection/1/1-10,200,OK,Thread Group 1-4,bin,true,,188863,540,5,5,https://www.ts.kg/olol1/208ba04668c1590acf5e5fc5d816686901492868.png,207,0,125
+1690176337425,275,https://www.ts.kg/show/transformers_collection/1/1-11,200,OK,Thread Group 1-4,bin,true,,51937,540,5,5,https://www.ts.kg/olol1/a579f37d3c7794ad65f5637433f5fe917c78264f.png,185,0,90
+1690176337507,124,https://www.ts.kg/show/transformers_collection/1/1-12,304,Not Modified,Thread Group 1-4,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,89
+1690176337558,149,https://www.ts.kg/show/transformers_collection/1/1-13,304,Not modified,Thread Group 1-4,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,67
+1690176337611,309,https://www.ts.kg/show/transformers_collection/1/1-14,200,OK,Thread Group 1-4,text,true,,589506,525,5,5,https://www.ts.kg/videojs/video.min.js?version=4.10.3,90,0,0
+1690176337616,87,https://www.ts.kg/show/transformers_collection/1/1-15,200,OK,Thread Group 1-4,text,true,,4713,542,5,5,https://www.ts.kg/legacy/videojs/videojs.hotkeys.min.js?version=4.10.3,87,0,0
+1690176337631,111,https://www.ts.kg/show/transformers_collection/1/1-16,200,OK,Thread Group 1-4,text,true,,18465,518,5,5,https://www.ts.kg/js/episode.js?version=4.10.3,84,0,0
+1690176337921,73,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection,200,OK,Thread Group 1-4,text,true,,1673,548,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&prefix=revive-0-&zones=1%7C2,73,0,0
+1690176337995,113,https://www.ts.kg/show/episode/episode.json?episode=284630,200,OK,Thread Group 1-4,text,true,,1412,445,5,5,https://www.ts.kg/show/episode/episode.json?episode=284630,113,0,0
+1690176337702,406,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,200,OK,Thread Group 1-1,bin,true,,819707,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,74,0,0
+1690176338108,62,https://www.ts.kg/show/episode/nav.json?episode=284630,200,OK,Thread Group 1-4,text,true,,4469,398,5,5,https://www.ts.kg/show/episode/nav.json?episode=284630,62,0,0
+1690176338171,126,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,200,OK,Thread Group 1-4,text,true,,454,384,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,126,0,85
+1690176337346,1010,https://www.ts.kg/show/transformers_collection/1/1,200,OK,Thread Group 1-2,text,true,,1358381,9501,5,5,https://www.ts.kg/show/transformers_collection/1/1,266,0,105
+1690176337346,357,https://www.ts.kg/show/transformers_collection/1/1-0,200,OK,Thread Group 1-2,text,true,,54480,522,5,5,https://www.ts.kg/show/transformers_collection/1/1,266,0,105
+1690176337706,60,https://www.ts.kg/show/transformers_collection/1/1-1,304,Not Modified,Thread Group 1-2,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176337706,155,https://www.ts.kg/show/transformers_collection/1/1-2,304,Not Modified,Thread Group 1-2,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,96
+1690176337706,142,https://www.ts.kg/show/transformers_collection/1/1-3,304,Not Modified,Thread Group 1-2,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,94
+1690176337707,242,https://www.ts.kg/show/transformers_collection/1/1-4,200,OK,Thread Group 1-2,text,true,,41330,529,5,5,https://www.ts.kg/videojs/video-js.min.css?version=4.10.3,206,0,93
+1690176337706,241,https://www.ts.kg/show/transformers_collection/1/1-5,200,OK,Thread Group 1-2,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,139,0,0
+1690176337707,211,https://www.ts.kg/show/transformers_collection/1/1-6,304,Not Modified,Thread Group 1-2,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,139
+1690176337766,61,https://www.ts.kg/show/transformers_collection/1/1-7,304,Not Modified,Thread Group 1-2,,true,,181,622,5,5,https://www.ts.kg/olol1/a539de10489030538d8388090d2d9da588c78c3d.jpg,0,0,0
+1690176337827,171,https://www.ts.kg/show/transformers_collection/1/1-8,200,OK,Thread Group 1-2,bin,true,,113413,540,5,5,https://www.ts.kg/olol1/877a8befc670cefaad32cb3f7fbf6397a62962d6.jpg,72,0,0
+1690176337848,179,https://www.ts.kg/show/transformers_collection/1/1-9,200,OK,Thread Group 1-2,bin,true,,68819,540,5,5,https://www.ts.kg/olol1/91a6927a98b2ba7b5190067332de9b8c9b295238.jpg,106,0,0
+1690176337861,247,https://www.ts.kg/show/transformers_collection/1/1-10,200,OK,Thread Group 1-2,bin,true,,118660,540,5,5,https://www.ts.kg/olol1/8ef87321417187f74edfba07a4132e28309a68ea.jpg,93,0,0
+1690176337918,175,https://www.ts.kg/show/transformers_collection/1/1-11,200,OK,Thread Group 1-2,bin,true,,86451,540,5,5,https://www.ts.kg/olol1/fa0eccf95209f8a34236129884a70ca98fc81ac6.jpg,56,0,0
+1690176337947,140,https://www.ts.kg/show/transformers_collection/1/1-12,304,Not Modified,Thread Group 1-2,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,83
+1690176337950,48,https://www.ts.kg/show/transformers_collection/1/1-13,304,Not modified,Thread Group 1-2,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176337998,358,https://www.ts.kg/show/transformers_collection/1/1-14,200,OK,Thread Group 1-2,text,true,,589506,525,5,5,https://www.ts.kg/videojs/video.min.js?version=4.10.3,177,0,112
+1690176337999,54,https://www.ts.kg/show/transformers_collection/1/1-15,200,OK,Thread Group 1-2,text,true,,4713,542,5,5,https://www.ts.kg/legacy/videojs/videojs.hotkeys.min.js?version=4.10.3,54,0,0
+1690176338027,81,https://www.ts.kg/show/transformers_collection/1/1-16,200,OK,Thread Group 1-2,text,true,,18465,518,5,5,https://www.ts.kg/js/episode.js?version=4.10.3,72,0,0
+1690176338297,105,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,200,OK,Thread Group 1-4,text,true,,26904,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,45,0,0
+1690176338357,52,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection,200,OK,Thread Group 1-2,text,true,,1673,548,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection&prefix=revive-0-&zones=1%7C2,52,0,0
+1690176338410,94,https://www.ts.kg/show/episode/episode.json?episode=284630,200,OK,Thread Group 1-2,text,true,,1412,445,5,5,https://www.ts.kg/show/episode/episode.json?episode=284630,94,0,0
+1690176338504,64,https://www.ts.kg/show/episode/nav.json?episode=284630,200,OK,Thread Group 1-2,text,true,,4469,398,5,5,https://www.ts.kg/show/episode/nav.json?episode=284630,64,0,0
+1690176338403,280,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,200,OK,Thread Group 1-4,bin,true,,819707,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,61,0,0
+1690176338570,159,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,200,OK,Thread Group 1-2,text,true,,454,384,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/playlist.m3u8,158,0,100
+1690176338730,77,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,200,OK,Thread Group 1-2,text,true,,26904,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4_chunk.m3u8,41,0,0
+1690176338808,384,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,200,OK,Thread Group 1-2,bin,true,,819707,387,5,5,https://data6.ts.kg/73/transformers_collection/1/smil:1.smil/1.mp4-n_0_0_0.ts,43,0,0
+1690176340593,468,https://www.ts.kg/show/download/284630,200,OK,Thread Group 1-5,text,true,,349214,7541,5,5,https://www.ts.kg/show/download/284630,117,0,0
+1690176340593,133,https://www.ts.kg/show/download/284630-0,200,OK,Thread Group 1-5,text,true,,48867,510,5,5,https://www.ts.kg/show/download/284630,117,0,0
+1690176340729,66,https://www.ts.kg/show/download/284630-1,304,Not Modified,Thread Group 1-5,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176340729,120,https://www.ts.kg/show/download/284630-2,304,Not Modified,Thread Group 1-5,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,76
+1690176340730,145,https://www.ts.kg/show/download/284630-3,304,Not Modified,Thread Group 1-5,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,90
+1690176340730,174,https://www.ts.kg/show/download/284630-4,200,OK,Thread Group 1-5,text,true,,261276,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,125,0,0
+1690176340730,146,https://www.ts.kg/show/download/284630-5,304,Not Modified,Thread Group 1-5,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,90
+1690176340730,146,https://www.ts.kg/show/download/284630-6,304,Not Modified,Thread Group 1-5,,true,,181,622,5,5,https://www.ts.kg/olol1/a539de10489030538d8388090d2d9da588c78c3d.jpg,0,0,91
+1690176340795,48,https://www.ts.kg/show/download/284630-7,200,OK,Thread Group 1-5,bin,true,,23099,540,5,5,https://www.ts.kg/olol1/4530a26cec2af1766e2e2e469cf53ec4f2a2ac15.jpg,43,0,0
+1690176340844,45,https://www.ts.kg/show/download/284630-8,200,OK,Thread Group 1-5,bin,true,,14340,540,5,5,https://www.ts.kg/olol1/4ed33f4f4e65a7ec96fccecdcde18d1f0e6191cf.jpg,45,0,0
+1690176340849,160,https://www.ts.kg/show/download/284630-9,304,Not Modified,Thread Group 1-5,,true,,182,623,5,5,https://www.ts.kg/olol1/8ef87321417187f74edfba07a4132e28309a68ea.jpg,0,0,71
+1690176340876,185,https://www.ts.kg/show/download/284630-10,304,Not Modified,Thread Group 1-5,,true,,182,623,5,5,https://www.ts.kg/olol1/fa0eccf95209f8a34236129884a70ca98fc81ac6.jpg,0,0,137
+1690176340876,41,https://www.ts.kg/show/download/284630-11,304,Not Modified,Thread Group 1-5,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,0
+1690176340876,185,https://www.ts.kg/show/download/284630-12,304,Not modified,Thread Group 1-5,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,137
+1690176341062,39,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1,200,OK,Thread Group 1-5,text,true,,1661,542,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&prefix=revive-0-&zones=1%7C2,39,0,0
+1690176342297,464,https://www.ts.kg/show/download/284630,200,OK,Thread Group 1-3,text,true,,349014,7541,5,5,https://www.ts.kg/show/download/284630,130,0,0
+1690176342297,149,https://www.ts.kg/show/download/284630-0,200,OK,Thread Group 1-3,text,true,,49075,510,5,5,https://www.ts.kg/show/download/284630,130,0,0
+1690176342449,67,https://www.ts.kg/show/download/284630-1,304,Not Modified,Thread Group 1-3,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176342449,68,https://www.ts.kg/show/download/284630-2,304,Not Modified,Thread Group 1-3,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176342449,68,https://www.ts.kg/show/download/284630-3,304,Not Modified,Thread Group 1-3,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176342450,188,https://www.ts.kg/show/download/284630-4,200,OK,Thread Group 1-3,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,120,0,0
+1690176342450,66,https://www.ts.kg/show/download/284630-5,304,Not Modified,Thread Group 1-3,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,0
+1690176342450,185,https://www.ts.kg/show/download/284630-6,304,Not Modified,Thread Group 1-3,,true,,182,623,5,5,https://www.ts.kg/olol1/776ff82cd2eb60cc57f75ea81becc63cc4a09ac3.png,0,0,117
+1690176342517,210,https://www.ts.kg/show/download/284630-7,200,OK,Thread Group 1-3,bin,true,,24772,540,5,5,https://www.ts.kg/olol1/568ff69bd54abad33b99f49611a03e235fe8a3f8.jpg,202,0,121
+1690176342517,172,https://www.ts.kg/show/download/284630-8,200,OK,Thread Group 1-3,bin,true,,12268,540,5,5,https://www.ts.kg/olol1/d16cf9f370eaf52641059c3760b18ae66893b469.jpg,172,0,123
+1690176342517,172,https://www.ts.kg/show/download/284630-9,304,Not Modified,Thread Group 1-3,,true,,182,623,5,5,https://www.ts.kg/olol1/bd356d75ab0579f2fe3eea80573010238b643710.jpg,0,0,121
+1690176342517,147,https://www.ts.kg/show/download/284630-10,304,Not Modified,Thread Group 1-3,,true,,181,622,5,5,https://www.ts.kg/olol1/71205dc669269ca755785e299372f284485ef1f0.jpg,0,0,100
+1690176342635,126,https://www.ts.kg/show/download/284630-11,304,Not Modified,Thread Group 1-3,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,88
+1690176342638,51,https://www.ts.kg/show/download/284630-12,304,Not modified,Thread Group 1-3,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176342762,77,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1,200,OK,Thread Group 1-3,text,true,,1661,542,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&prefix=revive-0-&zones=1%7C2,77,0,0
+1690176342538,457,https://www.ts.kg/show/download/284630,200,OK,Thread Group 1-2,text,true,,823811,7237,5,5,https://www.ts.kg/show/download/284630,114,0,0
+1690176342538,126,https://www.ts.kg/show/download/284630-0,200,OK,Thread Group 1-2,text,true,,48826,510,5,5,https://www.ts.kg/show/download/284630,114,0,0
+1690176342668,52,https://www.ts.kg/show/download/284630-1,304,Not Modified,Thread Group 1-2,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176342669,170,https://www.ts.kg/show/download/284630-2,304,Not Modified,Thread Group 1-2,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,96
+1690176342668,171,https://www.ts.kg/show/download/284630-3,304,Not Modified,Thread Group 1-2,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,112
+1690176342669,188,https://www.ts.kg/show/download/284630-4,200,OK,Thread Group 1-2,text,true,,261267,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,123,0,0
+1690176342669,182,https://www.ts.kg/show/download/284630-5,304,Not Modified,Thread Group 1-2,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,127
+1690176342669,296,https://www.ts.kg/show/download/284630-6,200,OK,Thread Group 1-2,bin,true,,90448,540,5,5,https://www.ts.kg/olol1/e0a55c3a1f1dacd252e1d6cd1d7f967de7b35a5b.jpg,223,0,125
+1690176342720,119,https://www.ts.kg/show/download/284630-7,200,OK,Thread Group 1-2,text,true,,96971,511,5,5,https://www.ts.kg/olol1/3074/index.html,56,0,0
+1690176342840,148,https://www.ts.kg/show/download/284630-8,200,OK,Thread Group 1-2,text,true,,84412,513,5,5,https://www.ts.kg/olol1/3074_m/index.html,57,0,0
+1690176342839,113,https://www.ts.kg/show/download/284630-9,200,OK,Thread Group 1-2,bin,true,,188863,540,5,5,https://www.ts.kg/olol1/208ba04668c1590acf5e5fc5d816686901492868.png,58,0,0
+1690176342848,140,https://www.ts.kg/show/download/284630-10,200,OK,Thread Group 1-2,bin,true,,51937,540,5,5,https://www.ts.kg/olol1/a579f37d3c7794ad65f5637433f5fe917c78264f.png,74,0,0
+1690176342852,143,https://www.ts.kg/show/download/284630-11,304,Not Modified,Thread Group 1-2,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,103
+1690176342857,64,https://www.ts.kg/show/download/284630-12,304,Not modified,Thread Group 1-2,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176342997,46,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1,200,OK,Thread Group 1-2,text,true,,1661,542,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&prefix=revive-0-&zones=1%7C2,46,0,0
+1690176343685,549,https://www.ts.kg/show/download/284630,200,OK,Thread Group 1-1,text,true,,835726,7293,5,5,https://www.ts.kg/show/download/284630,128,0,0
+1690176343685,136,https://www.ts.kg/show/download/284630-0,200,OK,Thread Group 1-1,text,true,,48834,510,5,5,https://www.ts.kg/show/download/284630,128,0,0
+1690176343825,35,https://www.ts.kg/show/download/284630-1,304,Not Modified,Thread Group 1-1,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176343825,46,https://www.ts.kg/show/download/284630-2,304,Not Modified,Thread Group 1-1,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176343825,35,https://www.ts.kg/show/download/284630-3,304,Not Modified,Thread Group 1-1,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176343825,182,https://www.ts.kg/show/download/284630-4,200,OK,Thread Group 1-1,text,true,,261286,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,148,0,0
+1690176343825,45,https://www.ts.kg/show/download/284630-5,304,Not Modified,Thread Group 1-1,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,0
+1690176343826,66,https://www.ts.kg/show/download/284630-6,200,OK,Thread Group 1-1,bin,true,,116375,540,5,5,https://www.ts.kg/olol1/0785725908013fa3ebda493124e75c1042eed89d.png,44,0,0
+1690176343861,278,https://www.ts.kg/show/download/284630-7,200,OK,Thread Group 1-1,bin,true,,113413,540,5,5,https://www.ts.kg/olol1/877a8befc670cefaad32cb3f7fbf6397a62962d6.jpg,188,0,115
+1690176343861,319,https://www.ts.kg/show/download/284630-8,200,OK,Thread Group 1-1,bin,true,,68819,540,5,5,https://www.ts.kg/olol1/91a6927a98b2ba7b5190067332de9b8c9b295238.jpg,254,0,165
+1690176343871,363,https://www.ts.kg/show/download/284630-9,200,OK,Thread Group 1-1,bin,true,,166423,540,5,5,https://www.ts.kg/olol1/bd356d75ab0579f2fe3eea80573010238b643710.jpg,228,0,147
+1690176343871,305,https://www.ts.kg/show/download/284630-10,200,OK,Thread Group 1-1,bin,true,,59489,540,5,5,https://www.ts.kg/olol1/71205dc669269ca755785e299372f284485ef1f0.jpg,244,0,147
+1690176343892,168,https://www.ts.kg/show/download/284630-11,304,Not Modified,Thread Group 1-1,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,133
+1690176344007,42,https://www.ts.kg/show/download/284630-12,304,Not modified,Thread Group 1-1,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176344235,39,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1,200,OK,Thread Group 1-1,text,true,,1661,542,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&prefix=revive-0-&zones=1%7C2,39,0,0
+1690176344407,482,https://www.ts.kg/show/download/284630,200,OK,Thread Group 1-4,text,true,,517004,7540,5,5,https://www.ts.kg/show/download/284630,111,0,0
+1690176344407,150,https://www.ts.kg/show/download/284630-0,200,OK,Thread Group 1-4,text,true,,48904,510,5,5,https://www.ts.kg/show/download/284630,111,0,0
+1690176344561,38,https://www.ts.kg/show/download/284630-1,304,Not Modified,Thread Group 1-4,,true,,181,587,5,5,https://www.ts.kg/img/favicon.png,0,0,0
+1690176344561,38,https://www.ts.kg/show/download/284630-2,304,Not Modified,Thread Group 1-4,,true,,253,603,5,5,https://www.ts.kg/css/app.min.css?version=4.10.3,0,0,0
+1690176344561,38,https://www.ts.kg/show/download/284630-3,304,Not Modified,Thread Group 1-4,,true,,179,584,5,5,https://www.ts.kg/js/branding.js,0,0,0
+1690176344561,198,https://www.ts.kg/show/download/284630-4,200,OK,Thread Group 1-4,text,true,,261358,528,5,5,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,128,0,0
+1690176344561,38,https://www.ts.kg/show/download/284630-5,304,Not Modified,Thread Group 1-4,,true,,180,583,5,5,https://www.ts.kg/img/logo.svg,0,0,0
+1690176344561,38,https://www.ts.kg/show/download/284630-6,304,Not Modified,Thread Group 1-4,,true,,182,623,5,5,https://www.ts.kg/olol1/0785725908013fa3ebda493124e75c1042eed89d.png,0,0,0
+1690176344599,165,https://www.ts.kg/show/download/284630-7,304,Not Modified,Thread Group 1-4,,true,,181,622,5,5,https://www.ts.kg/olol1/60d3b878b445cbfe4211260a0ee5f046d0c9ee28.png,0,0,109
+1690176344599,152,https://www.ts.kg/show/download/284630-8,304,Not Modified,Thread Group 1-4,,true,,181,622,5,5,https://www.ts.kg/olol1/9c8e85b2f945114ea3b50bcb3d5f153b45ccdd67.png,0,0,108
+1690176344599,290,https://www.ts.kg/show/download/284630-9,200,OK,Thread Group 1-4,bin,true,,118660,540,5,5,https://www.ts.kg/olol1/8ef87321417187f74edfba07a4132e28309a68ea.jpg,196,0,110
+1690176344599,266,https://www.ts.kg/show/download/284630-10,200,OK,Thread Group 1-4,bin,true,,86451,540,5,5,https://www.ts.kg/olol1/fa0eccf95209f8a34236129884a70ca98fc81ac6.jpg,196,0,109
+1690176344599,130,https://www.ts.kg/show/download/284630-11,304,Not Modified,Thread Group 1-4,,true,,182,601,5,5,https://www.ts.kg/js/app.min.js?version=4.10.3,0,0,75
+1690176344730,43,https://www.ts.kg/show/download/284630-12,304,Not modified,Thread Group 1-4,,true,,112,597,5,5,https://ba.ts.kg/ba/async.php,0,0,0
+1690176344890,54,https://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1,200,OK,Thread Group 1-4,text,true,,1661,542,5,5,https://ba.ts.kg/ba/aspc.php?loc=https%3A%2F%2Fwww.ts.kg%2Fshow%2Fdownload%2F284630&referer=https%3A%2F%2Fwww.ts.kg%2Fshow%2Ftransformers_collection%2F1%2F1&prefix=revive-0-&zones=1%7C2,54,0,0
